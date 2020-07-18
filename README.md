@@ -1,5 +1,4 @@
-### Hi there 👋
-### 😄I am Musfiq😄
+### Hi! I am Musfiq 👋
 <!--
 **MusfiqDehan/MusfiqDehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
