@@ -1,21 +1,33 @@
-### Hi! I am Musfiq 👋
-<!--
-**MusfiqDehan/MusfiqDehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center">Hi 👋, I'm Musfiq</h1>
 
-- 🔭 I’m currently working on C, C++
-- 🌱 I’m currently learning JavaScript, Nodejs, Python
-- 📫 How to reach me: [![Twitter][1.1]][1]
-[![alt text][2.2]][2]
-[![alt text][3.3]][3]
+<p align="center">
+<a href=https://twitter.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="MusfiqDehan" width="30" height="30" /></a>
+<a href=https://linkedin.com/in/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" width="30" height="30" /></a>
+<a href=https://leetcode.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="MusfiqDehan" padding="10" width="30" height="30" /></a>
+<a href=https://freecodecamp.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="MusfiqDehan" width="30" height="30" /></a>
+</p>
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.3]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=MusfiqDehan alt=MusfiqDehan/> </p>
 
-[1]: http://www.twitter.com/MusfiqDehan
-[2]: http://www.facebook.com/MusfiqDehans
-[3]: http://www.github.com/MusfiqDehan
+<br/>
 
+Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems.
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+  
+***Talking about Personal Stuffs:***
 
+- 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode);
+- 🌱 I’m currently learning **JavaScript** and **Python**; 
+- 👯 I’m looking to collaborate on [NSU-CSE](https://github.com/MusfiqDehan) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I like to ask many questions😀. You may feel irritated.
+- 📫 How to reach me: musfiqur.rahaman@northsouth.edu;
+- 📝<a download href="#">Resume: </a>
+
+<br>
+
+<h4 align="center"><i>Languages and Tools:</i></h4>  
+<p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="30" height="30"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="30" height="30"/></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true alt=MusfiqDehan /> </p>
