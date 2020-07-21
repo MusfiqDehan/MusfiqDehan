@@ -17,14 +17,14 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   
 ***Talking about Personal Stuffs:***
 
-- 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode);
-- 🌱 I’m currently learning **JavaScript** and **Python**; 
-- 👯 I’m looking to collaborate on [NSU-CSE](https://github.com/MusfiqDehan) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode)
+- 🌱 I’m currently learning **JavaScript** and **Python** 
+- 👯 I’m looking to collaborate on [NSU-CSE](https://github.com/MusfiqDehan) 🤝
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun-Fact: I like to ask many questions😀. You may feel irritated.
-- 📫 How to reach me: musfiqur.rahaman@northsouth.edu;
-- 📝<a download href="#">Resume: </a>
+- 📫 How to reach me: musfiqur.rahaman@northsouth.edu
+- 📝<a download href="#">Resume </a>
 
 <br>
 
