@@ -14,7 +14,7 @@
 
 Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
   
 ***Talking about Personal Stuffs:***
 
@@ -44,8 +44,9 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 </p>
  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true" alt="Musfiq's github stats" />
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true" alt="Musfiq's github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan" />
+</p>
 
 
