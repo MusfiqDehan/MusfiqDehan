@@ -42,4 +42,5 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 </p>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true" alt="Musfiq's github stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php, c" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=javascript,html)]
