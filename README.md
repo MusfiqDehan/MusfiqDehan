@@ -23,9 +23,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 - 👯 I’m looking to collaborate on [NSU-CSE](https://github.com/MusfiqDehan) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ Fun-Fact: I like to ask many questions😀. You may feel irritated.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
-- 📝<a download href="#">Resume </a>
 
 <br>
 
