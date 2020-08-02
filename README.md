@@ -41,8 +41,8 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   <code><img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="30" height="30"/></code>
 </p>
 
+<br>
 <hr>
-<br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true" alt="Musfiq's github stats" />
-<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php, c" />
