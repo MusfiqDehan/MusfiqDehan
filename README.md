@@ -16,7 +16,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 <hr>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200" width="300"/>
   
 ***Talking about Personal Stuffs:***
 
@@ -27,7 +27,6 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
 
-<br>
 <hr>
 
 <h4 align="center"><i>Languages and Tools:</i></h4>  
