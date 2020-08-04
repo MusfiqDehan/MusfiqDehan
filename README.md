@@ -22,7 +22,6 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 - 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode)
 - 🌱 I’m currently learning **JavaScript** and **Python** 
-- 👯 I’m looking to collaborate on [NSU-CSE](https://github.com/MusfiqDehan) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
