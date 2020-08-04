@@ -26,6 +26,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
 
+<br>
 <hr>
 
 <h4 align="center"><i>Languages and Tools:</i></h4>  
