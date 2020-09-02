@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Musfiq👨‍💻</h1>
 
 <p align="center">
-<a href=https://twitter.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="MusfiqDehan" width="25" height="25" /></a>
-<a href=https://linkedin.com/in/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" width="25" height="25" /></a>
-<a href=https://hackerrank.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="MusfiqDehan" width="25" height="25" /></a>
-<a href=https://leetcode.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="MusfiqDehan" padding="10" width="25" height="25" /></a>
-<a href=https://freecodecamp.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="MusfiqDehan" width="25" height="25" /></a>
+  <a href=https://twitter.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="MusfiqDehan" width="25"   height="25" /></a>
+  <a href=https://linkedin.com/in/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain"           width="25" height="25" /></a>
+  <a href=https://hackerrank.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="MusfiqDehan"         width="25" height="25" /></a>
+  <a href=https://leetcode.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="MusfiqDehan"             padding="10" width="25" height="25" /></a>
+  <a href=https://freecodecamp.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="MusfiqDehan"     width="25" height="25" /></a>
+  <a href=https://wakatime.com/@MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wakatime.svg alt="MusfiqDehan"             width="25" height="25" /></a>
 </p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=MusfiqDehan alt=MusfiqDehan/> </p>
