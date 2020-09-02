@@ -6,7 +6,6 @@
   <a href=https://hackerrank.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="MusfiqDehan"         width="25" height="25" /></a>
   <a href=https://leetcode.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="MusfiqDehan"             padding="10" width="25" height="25" /></a>
   <a href=https://freecodecamp.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="MusfiqDehan"     width="25" height="25" /></a>
-  <a href=https://wakatime.com/@MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wakatime.svg alt="MusfiqDehan"             width="25" height="25" /></a>
 </p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=MusfiqDehan alt=MusfiqDehan/> </p>
