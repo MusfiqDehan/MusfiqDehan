@@ -29,7 +29,14 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 <br>
 <hr>
 
-<h4 align="center"><i>Languages and Tools:</i></h4>  
+<h4 align="center"><i>Languages I use</i></h4>  
+<p align="center">
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="30" height="30"/>
+</p>
+
+<h4 align="center"><i>Tools I use</i></h4>  
 <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="30" height="30"/>
@@ -39,6 +46,11 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="30" height="30"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="30" height="30"/>
+</p>
+
+<h4 align="center"><i>Frameworks I use</i></h4>  
+<p align="center">
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/django/django-original-wordmark.svg alt=python width="30" height="30"/>
 </p>
 
 <hr>
