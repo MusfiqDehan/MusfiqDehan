@@ -32,9 +32,10 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 <h4 align="center"><i>Languages I use</i></h4>  
 <p align="center">
   <code>C</code>
-  <code>C++</code
+  <code>C++</code>
   <code>Java</code>
   <code>Python</code>
+  <code>JavaScript</code>
 </p>
 
 <h4 align="center"><i>Tools I use</i></h4>  
