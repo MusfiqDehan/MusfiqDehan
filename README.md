@@ -31,9 +31,10 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 <h4 align="center"><i>Languages I use</i></h4>  
 <p align="center">
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="30" height="30"/>
+  <code>C</code>
+  <code>C++</code
+  <code>Java</code>
+  <code>Python</code>
 </p>
 
 <h4 align="center"><i>Tools I use</i></h4>  
