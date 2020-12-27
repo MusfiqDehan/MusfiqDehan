@@ -52,7 +52,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 <h4 align="center"><i>Frameworks I use</i></h4>  
 <p align="center">
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/django/django-original-wordmark.svg alt=python width="30" height="30"/>
+  <code>django</code>
 </p>
 
 <hr>
