@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musfiq👨‍💻</h1>
+<h3 align="center">Hi 👋,<br> I'm Musfiq👨‍💻</h3>
 
 <p align="center">
   <a href=https://twitter.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="MusfiqDehan" width="25"   height="25" /></a>
@@ -20,7 +20,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   
 ***Talking about Personal Stuffs:***
 
-- 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode)
+- 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank)
 - 🌱 I’m currently learning **JavaScript** and **Python** 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help.
