@@ -43,10 +43,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="30" height="30"/> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="30" height="30"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="30" height="30"/>
 </p>
 
