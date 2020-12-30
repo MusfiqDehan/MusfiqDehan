@@ -40,11 +40,10 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 <h4 align="center"><i>Tools I use</i></h4>  
 <p align="center">
-<!--   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="30" height="30"/> -->
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="30" height="30"/>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>MySQL</code>
+  <code>Git</code>
 </p>
 
 <h4 align="center"><i>Frameworks I use</i></h4>  
