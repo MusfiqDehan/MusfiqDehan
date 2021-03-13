@@ -20,9 +20,8 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   
 ***Talking about Personal Stuffs:***
 
-- 👨🏽‍💻 I’m currently working on [BariBhara](https://github.com/MusfiqDehan/BariBhara)
-- 🌱 I’m currently learning **JavaScript** and **Python** 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 👨🏽‍💻 I’m currently working on [NewsHub](https://github.com/MusfiqDehan/newshub)
+- 🌱 I’m currently learning **Django** and **Machine Learning** 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
 
