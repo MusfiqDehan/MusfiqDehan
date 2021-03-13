@@ -24,7 +24,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 - 🌱 I’m currently learning **Django** and **Machine Learning** 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
-
+<br>
 <br>
 <hr>
 
@@ -61,6 +61,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
 <h4 align="center"><i>Operating System</i></h4>  
 <p align="center">
+  <code>Windows</code>
   <code>Linux (Ubuntu 20.04.01 LTS)</code>
 </p>
 
