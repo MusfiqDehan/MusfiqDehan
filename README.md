@@ -29,7 +29,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 <br>
 <hr>
 
-<h4 align="center"><i>Languages I use</i></h4>  
+<h4 align="center"><i>Languages I Know</i></h4>  
 <p align="center">
   <code>C</code>
   <code>C++</code>
@@ -38,17 +38,31 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
   <code>JavaScript</code>
 </p>
 
-<h4 align="center"><i>Tools I use</i></h4>  
+<h4 align="center"><i>Frontend Technologies I use</i></h4>  
 <p align="center">
   <code>HTML5</code>
   <code>CSS3</code>
-  <code>MySQL</code>
-  <code>Git</code>
+  <code>JavaScript</code>
+  <code>Bootstrap framework</code>
 </p>
 
-<h4 align="center"><i>Frameworks I use</i></h4>  
+<h4 align="center"><i>Backend Technologies I use</i></h4>  
 <p align="center">
-  <code>django</code>
+  <code>Python</code>
+  <code>Django framework</code>
+  <code>SQLite</code>
+</p>
+
+<h4 align="center"><i>Version Control System</i></h4>  
+<p align="center">
+  <code>git</code>
+  <code>GitHub</code>
+  <code>Bitbucket</code>
+</p>
+
+<h4 align="center"><i>Operating System</i></h4>  
+<p align="center">
+  <code>Linux (Ubuntu 20.04.01 LTS)</code>
 </p>
 
 <hr>
