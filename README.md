@@ -1,23 +1,19 @@
-<h3 align="center">Hi 👋,<br> I'm Musfiq👨‍💻</h3>
+<img align="" alt="GIF" src="Deepnote Cover - 1.png" height="" width=""/>
 
 <p align="center">
-  <a href=https://twitter.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="MusfiqDehan" width="25"   height="25" /></a>
-  <a href=https://linkedin.com/in/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain"           width="25" height="25" /></a>
-  <a href=https://hackerrank.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="MusfiqDehan"         width="25" height="25" /></a>
-  <a href=https://instagram.com/musfiqdehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="MusfiqDehan"             padding="10" width="25" height="25" /></a>
-  <a href=https://freecodecamp.com/MusfiqDehan target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="MusfiqDehan"     width="25" height="25" /></a>
+  <code><a href=https://twitter.com/MusfiqDehan target="blank">Twitter</a></code>
+  <code><a href=https://linkedin.com/in/MusfiqDehan target="blank">LinkedIn</a></code>
+  <code><a href=https://hackerrank.com/MusfiqDehan target="blank">HackerRank</a></code>
+  <code><a href=https://instagram.com/musfiqdehan target="blank">Instagram</a></code>
 </p>
+
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=MusfiqDehan alt=MusfiqDehan/> </p>
 
 <br/>
 
-Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems.
+<!-- Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems. -->
 
-<hr>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="200" width="300"/>
-  
 ***Talking about Personal Stuffs:***
 
 - 👨🏽‍💻 I’m currently working on [NewsHub](https://github.com/MusfiqDehan/newshub)
