@@ -1,4 +1,4 @@
-<img align="" alt="GIF" src="Deepnote Cover - 1.png" height="" width=""/>
+<img align="" alt="GIF" src="readme-cover.png" height="" width=""/>
 
 <p align="center">
   <code><a href=https://twitter.com/MusfiqDehan target="blank">Twitter</a></code>
@@ -14,14 +14,14 @@
 
 <!-- Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems. -->
 
-***Talking about Personal Stuffs:***
+<!-- ***Talking about Personal Stuffs:***
 
 - 👨🏽‍💻 I’m currently working on [NewsHub](https://github.com/MusfiqDehan/newshub)
 - 🌱 I’m currently learning **Django** and **Machine Learning** 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu
 <br>
-<br>
+<br> -->
 <hr>
 
 <h4 align="center"><i>Languages I Know</i></h4>  
@@ -64,4 +64,4 @@
 <hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true&theme=radical" alt="Musfiq's github stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php,html,css,c &theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php,html,css,c,hack,java &theme=radical" />
