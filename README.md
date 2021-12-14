@@ -28,7 +28,6 @@
 <p align="center">
   <code>C</code>
   <code>C++</code>
-  <code>Java</code>
   <code>Python</code>
   <code>JavaScript</code>
 </p>
@@ -58,7 +57,8 @@
 <h4 align="center"><i>Operating System</i></h4>  
 <p align="center">
   <code>Windows</code>
-  <code>Linux (Ubuntu 20.04.01 LTS)</code>
+  <code>WSL2</code>
+  <code>Linux (Ubuntu 20.04.3 LTS)</code>
 </p>
 
 <hr>
