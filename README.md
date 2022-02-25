@@ -47,7 +47,7 @@
   <code>SQLite</code>
 </p>
 
-<h4 align="center"><i>ML Technologies I use</i></h4>  
+<h4 align="center"><i>ML Framework I use</i></h4>  
 <p align="center">
   <code>Pytorch</code>
 </p>
