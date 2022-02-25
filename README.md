@@ -47,6 +47,11 @@
   <code>SQLite</code>
 </p>
 
+<h4 align="center"><i>ML Technologies I use</i></h4>  
+<p align="center">
+  <code>Pytorch</code>
+</p>
+
 <h4 align="center"><i>Version Control System</i></h4>  
 <p align="center">
   <code>git</code>
