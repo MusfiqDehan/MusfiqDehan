@@ -8,7 +8,19 @@
 </p>
 
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=MusfiqDehan alt=MusfiqDehan/> </p>
+<!-- <h3>`~/Skills`</h3>
+
+```python
+{
+  "languages": "C, C++, Python, JavaScript",
+  "front_end": "HTML, CSS",
+  "backened_framework: "Flask, Django",
+}
+
+``` -->
+
+
+
 
 <br/>
 
@@ -69,4 +81,4 @@
 <hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true&theme=radical" alt="Musfiq's github stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php,html,css,c,hack,java,shell &theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php,html,css,c,hack,java,shell,procfile,jupyter notebook &theme=radical" />
