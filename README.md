@@ -4,8 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Musfiq </h1>
     
 <p align="left">
-    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
-    ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
+    I'm a Fresh Graduate from North South University. Currenty I am working on Django and NLP related Projects. <br>
 <p>
 
 ## 🙋‍♂️ About Me
