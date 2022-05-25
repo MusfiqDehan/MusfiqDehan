@@ -1,84 +1,100 @@
-<img align="" alt="GIF" src="readme-cover.png" height="" width=""/>
+<!-- <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a> -->
 
-<p align="center">
-  <code><a href=https://twitter.com/MusfiqDehan target="blank">Twitter</a></code>
-  <code><a href=https://linkedin.com/in/MusfiqDehan target="blank">LinkedIn</a></code>
-  <code><a href=https://hackerrank.com/MusfiqDehan target="blank">HackerRank</a></code>
-  <code><a href=https://instagram.com/musfiqdehan target="blank">Instagram</a></code>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Musfiq </h1>
+    
+<p align="left">
+    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
+    ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
+<p>
+
+## 🙋‍♂️ About Me
+
+<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="260"> </img> -->
+<img align="right" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653495998~exp=1653496598~hmac=dbe9e6f17aa7e7b91a6bb6071bbe33ef1c65b76827a01c7ce6196c7946ee04b2&w=740" height="260"> </img>
+
+- 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment**
+
+- 🌱  : I’m currently learning **Django REST Framework & Natural Language Processing**
+
+- 👯  : I want to contribute in any **Python, Django & NLP related Open Source Projects**
+
+- 👨‍💻  : Most of my projects are available at **[My GitHub](https://github.com/MusfiqDehan)**
+
+- 📫  : How to reach me **[musfiqur.rahaman@northsouth.edu]()**
+
+- ⚡ : Fun fact **I love playing video games (CS:GO)**
+
+<br>
+<br>
+
+
+<h2 align="center"> 🚀 Languages and Tools </h2>
+  
+<p align="center"> 
+    <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="Bootstrap"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="Bootstrap"/> </a> 
 </p>
 
 
-<!-- <h3>`~/Skills`</h3>
-
-```python
-{
-  "languages": "C, C++, Python, JavaScript",
-  "front_end": "HTML, CSS",
-  "backened_framework: "Flask, Django",
-}
-
-``` -->
-
+<br/>
+  
+<h2 align="center"> 📊 My Github Stats </h2>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MusfiqDehan&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"></a>
+            </td>
+        </tr>
+   </table>
+</p>
 
 
 
 <br/>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+    </tr>
+</table>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
-<!-- Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently, I'm doing my BSc in CSE at ***North South University***. Besides my study I am learning Web Development and gaining skill to apply in real world problems. -->
+<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 
-<!-- ***Talking about Personal Stuffs:***
 
-- 👨🏽‍💻 I’m currently working on [NewsHub](https://github.com/MusfiqDehan/newshub)
-- 🌱 I’m currently learning **Django** and **Machine Learning** 
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: musfiqur.rahaman@northsouth.edu
-<br>
-<br> -->
-<hr>
-
-<h4 align="center"><i>Languages I Know</i></h4>  
+<h2 align="center"> 🔗 Connect with me </h2>
 <p align="center">
-  <code>C</code>
-  <code>C++</code>
-  <code>Python</code>
-  <code>JavaScript</code>
+<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
+<a href = "https://www.facebook.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"></a>
+<a href = "https://www.instagram.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+<a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a>
 </p>
 
-<h4 align="center"><i>Frontend Technologies I use</i></h4>  
+<h2 align="center"> ❤️ Views and Followers </h2>
 <p align="center">
-  <code>HTML5</code>
-  <code>CSS3</code>
-  <code>JavaScript</code>
-  <code>Bootstrap framework</code>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<h4 align="center"><i>Backend Technologies I use</i></h4>  
-<p align="center">
-  <code>Python</code>
-  <code>Django framework</code>
-  <code>SQLite</code>
-</p>
-
-<h4 align="center"><i>ML Framework I use</i></h4>  
-<p align="center">
-  <code>Pytorch</code>
-</p>
-
-<h4 align="center"><i>Version Control System</i></h4>  
-<p align="center">
-  <code>git</code>
-  <code>GitHub</code>
-  <code>Bitbucket</code>
-</p>
-
-<h4 align="center"><i>Operating System</i></h4>  
-<p align="center">
-  <code>Windows</code>
-  <code>WSL2</code>
-  <code>Linux (Ubuntu 20.04.3 LTS)</code>
-</p>
-
-<hr>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&include_all_commits=true&theme=radical" alt="Musfiq's github stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&hide=php,html,css,c,hack,java,shell,procfile,jupyter notebook &theme=radical" />
