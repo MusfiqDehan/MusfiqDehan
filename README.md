@@ -39,8 +39,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="Bootstrap"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="Bootstrap"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="PyTorch"/> </a> 
 </p>
 
 
@@ -64,16 +64,16 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&langs_count=8.0&hide=php,hack&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
 </table>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
+<b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</em>
 <br/>
 <br/>
 
@@ -94,6 +94,6 @@
 <h2 align="center"> ❤️ Views and Followers </h2>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MusfiqDehan?tab=followers"><img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
