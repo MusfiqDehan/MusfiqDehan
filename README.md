@@ -41,6 +41,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="PyTorch"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"/> </a> 
 </p>
 
 
@@ -99,6 +101,8 @@
 <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 <a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/ios-filled/48/codepen.png"></a>
+<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/170583847-d14634c7-5ed1-4869-bb1e-50e084ddcb17.png"></a>
+<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 <a href = "https://www.instagram.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
 <a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a>
 </p>
