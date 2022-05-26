@@ -58,6 +58,17 @@
    </table>
 </p>
 
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://wakatime.com/@MusfiqDehan">
+                    <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
+                </a>
+            </td>
+        </tr>
+   </table>
+</p>
 
 
 <br/>
