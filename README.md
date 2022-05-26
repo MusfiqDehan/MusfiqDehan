@@ -58,18 +58,6 @@
    </table>
 </p>
 
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <a href="https://wakatime.com/@MusfiqDehan">
-                    <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
-                </a>
-            </td>
-        </tr>
-   </table>
-</p>
-
 
 <br/>
 <table>
@@ -91,6 +79,19 @@
 <a href="https://github.com/MusfiqDehan/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+
+<h2 align="center">🕑 WakaTime Weekly Coding Stats </h2>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://wakatime.com/@MusfiqDehan">
+                    <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
+                </a>
+            </td>
+        </tr>
+   </table>
+</p>
 
 
 <h2 align="center"> 🔗 Connect with me </h2>
