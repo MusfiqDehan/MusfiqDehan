@@ -98,14 +98,20 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
-<a href = "https://www.facebook.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"></a>
+<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/ios-filled/48/codepen.png"></a>
 <a href = "https://www.instagram.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
 <a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a>
 </p>
 
 <h2 align="center"> ❤️ Views and Followers </h2>
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/MusfiqDehan?tab=followers"><img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://github.com/MusfiqDehan?tab=followers">
+    <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge">
+</a>
+    
+    
 </p>
 
