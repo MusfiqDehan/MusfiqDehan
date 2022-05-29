@@ -22,7 +22,7 @@
 
 - 📫  : How to reach me **[musfiqur.rahaman@northsouth.edu]()**
 
-- ⚡ : Fun fact **I love playing video games (CS:GO)**
+<!-- - ⚡ : Fun fact **I love playing video games (CS:GO)** -->
 
 <br>
 <br>
