@@ -17,7 +17,7 @@
 - 🌱  : I’m currently learning **Django REST Framework & Natural Language Processing**
 
 - 👯  : I want to contribute in any **Python, Django & NLP related Open Source Projects**
-- 👯  : I want contribution at **[Data-Preprocessors - A Python Package](https://github.com/MusfiqDehan)** 
+- 👯  : I want contribution at **[Data-Preprocessors - A Python Package](https://github.com/MusfiqDehan/data-preprocessors)** 
 
 - 👨‍💻  : Most of my projects are available at **[My GitHub](https://github.com/MusfiqDehan)**
 
