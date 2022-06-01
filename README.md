@@ -1,7 +1,7 @@
 <!-- <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a> -->
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Musfiq </h1>
+<h1 align="left">Hi 👋,  I'm Musfiq </h1>
     
 <p align="left">
     I'm a Fresh Graduate from North South University. Currenty I am working on Django and NLP related Projects. <br>
