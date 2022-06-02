@@ -79,15 +79,15 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Md. Musfiqur Rahaman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="Daily Contribution Frequency of Last 31 Days" alt="Md. Musfiqur Rahaman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
 <details align="center">
-    <summary><h2 align="center">🕑 WakaTime Weekly Coding Stats </h2></summary>
+    <summary><h2 align="center">🕑 WakaTime Coding Stats </h2></summary>
     <p align="center">
         <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
-            <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg" title="Total time coded since Jul 27 2020" />
+            <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
         </a>
         <table align="center">
             <tr>
@@ -116,10 +116,10 @@
 <h2 align="center"> ❤️ Views and Followers </h2>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=MusfiqDehan" width="150px">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://github.com/MusfiqDehan?tab=followers">
-    <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" width="150px" alt="GitHub Badge">
 </a>
     
     
