@@ -75,11 +75,11 @@
         </td>
     </tr>
 </table>
-<b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</em>
+<em><b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</em>
 <br/>
 <br/>
 
-<a href="https://github.com/MusfiqDehan/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Md. Musfiqur Rahaman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MusfiqDehan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
@@ -105,7 +105,7 @@
 <a href = "" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/170583847-d14634c7-5ed1-4869-bb1e-50e084ddcb17.png"></a>
 <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 <a href = "https://www.instagram.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
-<a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a>
+<!-- <a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a> -->
 </p>
 
 <h2 align="center"> ❤️ Views and Followers </h2>
