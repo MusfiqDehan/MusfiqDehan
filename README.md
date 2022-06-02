@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋,  I'm Musfiq </h1>
-    
+
 <p align="left">
     I'm a Fresh Graduate from North South University. Currenty I am working on Django and NLP related Projects. <br>
 <p>
@@ -86,6 +86,9 @@
 <details align="center">
     <summary><h2 align="center">🕑 WakaTime Weekly Coding Stats </h2></summary>
     <p align="center">
+        <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
+            <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg" title="Total time coded since Jul 27 2020" />
+        </a>
         <table align="center">
             <tr>
                 <td>
