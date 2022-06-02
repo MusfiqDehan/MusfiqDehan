@@ -83,18 +83,20 @@
 <br/>
 <br/>
 
-<h2 align="center">🕑 WakaTime Weekly Coding Stats </h2>
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <a href="https://wakatime.com/@MusfiqDehan">
-                    <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
-                </a>
-            </td>
-        </tr>
-   </table>
-</p>
+<details align="center">
+    <summary><h2 align="center">🕑 WakaTime Weekly Coding Stats </h2></summary>
+    <p align="center">
+        <table align="center">
+            <tr>
+                <td>
+                    <a href="https://wakatime.com/@MusfiqDehan">
+                        <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
+                    </a>
+                </td>
+            </tr>
+       </table>
+    </p>
+</details>
 
 
 <h2 align="center"> 🔗 Connect with me </h2>
