@@ -1,4 +1,5 @@
-<!-- <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a> -->
+<a href="#"><img style="align:center;" width="100%" height="auto" src="https://user-images.githubusercontent.com/47440165/172062486-9325b0e2-14e9-4d7a-86f7-c7a01d81c600.png" /></a>
+<!-- ![image](https://user-images.githubusercontent.com/47440165/172062486-9325b0e2-14e9-4d7a-86f7-c7a01d81c600.png) -->
 
 
 <h1 align="left">Hi 👋,  I'm Musfiq </h1>
