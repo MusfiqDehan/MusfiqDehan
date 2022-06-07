@@ -1,7 +1,7 @@
 <samp>
     
 <h1 align="center">Hey there!👋</h1>
-<!-- <a align = "center" href="#"><img style="align:center;" width="" height="" src="readme-cover.png" /></a> -->
+<a align = "center" href="#"><img style="align:center;" width="100%" height="auto" src="readme-name.png" /></a>
 
 
 <p align="center">
