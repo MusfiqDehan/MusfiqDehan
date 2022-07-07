@@ -10,8 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="260"> </img> -->
-<img align="right" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653495998~exp=1653496598~hmac=dbe9e6f17aa7e7b91a6bb6071bbe33ef1c65b76827a01c7ce6196c7946ee04b2&w=740" height="260"> </img>
+<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="260"> </img> 
+<img align="right" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653495998~exp=1653496598~hmac=dbe9e6f17aa7e7b91a6bb6071bbe33ef1c65b76827a01c7ce6196c7946ee04b2&w=740" height="260"> </img> -->
+<a href="https://app.daily.dev/musfiqdehan"><img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=g9s" width="230" height="260" alt="Md. Musfiqur Rahaman's Dev Card"/></a>
 
 - 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment**
 
