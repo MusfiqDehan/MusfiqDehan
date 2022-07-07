@@ -1,12 +1,11 @@
 <samp>
-    
-<h1 align="center">Hey there!👋</h1>
-<!-- <a align = "center" href="#"><img style="align:center;" width="100%" height="auto" src="readme-name.png" /></a> -->
 
 <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
+<h1 align="left">👋Hey there!</h1>
+<!-- <a align = "center" href="#"><img style="align:center;" width="100%" height="auto" src="readme-name.png" /></a> -->
+
 <p align="left">
-    I'm Musfiq.<br> A Fresh Graduate from North South University.<br> 
-    Currenty I am working on Django and NLP related Projects. <br>
+    I'm <b>Md. Musfiqur Rahaman</b>. <br> I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating Data Science and software Engineering principles into practice.
 <p>
 
 ## 🙋‍♂️ About Me
