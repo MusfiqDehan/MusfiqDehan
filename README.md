@@ -11,10 +11,10 @@
 <p>
 
 <a href="https://musfiqdehan.me/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 <a href="https://blog.musfiqdehan.me/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
 </a>
 
 ## 🙋‍♂️ About Me
