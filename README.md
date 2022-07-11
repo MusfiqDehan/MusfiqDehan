@@ -1,18 +1,16 @@
 <samp>
 
-<img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
-<h1 align="left">👋Hey there!</h1>
-<!-- <a align = "center" href="#"><img style="align:center;" width="100%" height="auto" src="readme-name.png" /></a> -->
+<a href="https://app.daily.dev/musfiqdehan" target="_blank">
+    <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
+</a>
 
-<p align="left">
-    I'm <b>Md. Musfiqur Rahaman</b>. <br> I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating Data Science and software Engineering principles into practice.
+<h1 align="left">👋Hey there!</h1>
+
+<p align="justify">
+    I'm <b>Md. Musfiqur Rahaman</b>. <br> I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice.
 <p>
 
 ## 🙋‍♂️ About Me
-
-<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="260"> </img> 
-<img align="right" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653495998~exp=1653496598~hmac=dbe9e6f17aa7e7b91a6bb6071bbe33ef1c65b76827a01c7ce6196c7946ee04b2&w=740" height="260"> </img> -->
-<a href="https://app.daily.dev/musfiqdehan"></a>
 
 - 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment**
 
@@ -112,7 +110,7 @@
 <a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/170583847-d14634c7-5ed1-4869-bb1e-50e084ddcb17.png"></a>
 <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/172096045-dce462c7-71d3-4e3c-889b-158dc75c374b.png"></a>
-<!-- <a href = "https://musfiqdehan.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a> -->
+<!-- <a href = "https://musfiqdehan.me/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a> -->
 </p>
 
 <h2 align="center"> ❤️ Views and Followers </h2>
