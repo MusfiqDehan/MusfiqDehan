@@ -6,8 +6,9 @@
 
 <h1 align="left">👋Hey there!</h1>
 
+<h3>I am <code><b>Md. Musfiqur Rahaman</b></code>.</h3>
 <p align="justify">
-    I'm <b>Md. Musfiqur Rahaman</b>. <br> I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice.
+I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice.
 <p>
 
 <a href="https://musfiqdehan.me/" target="_blank">
