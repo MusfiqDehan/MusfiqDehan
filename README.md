@@ -48,12 +48,11 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a> 
     <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> </a> 
+    <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/pytorch_logo_icon_169823.png" title="PyTorch"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"/> </a> 
 </p>
-
 
 <br/>
   
