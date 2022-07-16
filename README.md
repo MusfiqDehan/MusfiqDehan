@@ -20,9 +20,9 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 
 ## 🙋‍♂️ About Me
 
-- 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment**
+- 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment (Natural Language Processing)**
 
-- 🌱  : I’m currently learning **Django REST Framework & Natural Language Processing**
+- 🌱  : I’m currently learning **Django REST Framework & React**
 
 - 👯  : I want to contribute in any **Python, Django & NLP related Open Source Projects**
 - 👯  : I want contribution at **[Data-Preprocessors - A Python Package](https://github.com/MusfiqDehan/data-preprocessors)** 
