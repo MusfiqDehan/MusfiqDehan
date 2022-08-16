@@ -27,7 +27,7 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 </a>
 </p>
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me
 
 - 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment (Natural Language Processing)**
 
@@ -42,7 +42,7 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 
 - 👨‍🎓 : You can also see me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
 
-<!-- - ⚡ : Fun fact **I love playing video games (CS:GO)** -->
+- ⚡ : Fun fact **I love playing video games (CS:GO)** -->
 
 <br>
 <br>
