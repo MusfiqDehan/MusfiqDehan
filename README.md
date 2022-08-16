@@ -27,7 +27,12 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 </a>
 </p>
 
-<!-- ## 🙋‍♂️ About Me
+    
+<h2 align="center"> 🙋‍♂️ About Me </h2>
+    
+ <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
+    <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="250" height="300" alt="Md. Musfiqur Rahaman's Dev Card"/>
+</a>
 
 - 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment (Natural Language Processing)**
 
@@ -40,9 +45,9 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 
 - 📫  : How to reach me **[musfiqur.rahaman@northsouth.edu]()**
 
-- 👨‍🎓 : You can also see me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
+- 👨‍🎓 : You can also find me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
 
-- ⚡ : Fun fact **I love playing video games (CS:GO)** -->
+<!-- - ⚡ : Fun fact **I love playing video games (CS:GO)** -->
 
 <br>
 <br>
