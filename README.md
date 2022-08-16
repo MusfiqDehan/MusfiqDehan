@@ -26,13 +26,15 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
     <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
 </a>
 </p>
+<!-- ![night-coding](https://user-images.githubusercontent.com/47440165/184950012-4a36f782-f7e9-44cb-affc-cc82d67561fb.gif) -->
 
     
 <h2 align="center"> 🙋‍♂️ About Me </h2>
     
- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
-    <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="250" height="300" alt="Md. Musfiqur Rahaman's Dev Card"/>
+ <a href="" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
+    <img style="border-radius: 100px;" align="right" src="https://user-images.githubusercontent.com/47440165/184950012-4a36f782-f7e9-44cb-affc-cc82d67561fb.gif" width="400" height="300" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>
+ 
 
 - 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment (Natural Language Processing)**
 
