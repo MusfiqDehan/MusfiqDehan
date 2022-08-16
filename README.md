@@ -1,23 +1,31 @@
 <samp>
 
-<a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
+<!--<a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
+</a>-->
+
+<h1 align="center">👋Hey there!</h1>
+
+<h3 align="center">I am <code><b>Md. Musfiqur Rahaman</b></code>.</h3>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50">
 </a>
+</p>
 
-<h1 align="left">👋Hey there!</h1>
-
-<h3>I am <code><b>Md. Musfiqur Rahaman</b></code>.</h3>
-
-<p align="justify">
+<p align="center">
 I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
 <p>
 
+<p align="center">
 <a href="https://musfiqdehan.me/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 <a href="https://blog.musfiqdehan.me/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
 </a>
+</p>
 
 ## 🙋‍♂️ About Me
 
