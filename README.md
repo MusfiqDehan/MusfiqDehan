@@ -18,15 +18,14 @@
 I am a dynamic and ambitious Computer Science graduate student looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
 <p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://musfiqdehan.me/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 <a href="https://blog.musfiqdehan.me/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
 </a>
-</p>
-<!-- ![night-coding](https://user-images.githubusercontent.com/47440165/184950012-4a36f782-f7e9-44cb-affc-cc82d67561fb.gif) -->
+</p> -->
 
     
 <h2 align="center"> 🙋‍♂️ About Me </h2>
@@ -48,8 +47,6 @@ I am a dynamic and ambitious Computer Science graduate student looking for cross
 - 📫  : How to reach me **[musfiqur.rahaman@northsouth.edu]()**
 
 - 👨‍🎓 : You can also find me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
-
-<!-- - ⚡ : Fun fact **I love playing video games (CS:GO)** -->
 
 <br>
 <br>
