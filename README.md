@@ -7,7 +7,7 @@
 <samp>
     <h1 align="center">👋Hey there!</h1>
     <p align="center">
-        <a href="https://github.com/MusfiqDehan#-%EF%B8%8F-views-and-followers-">(Go to My Pinned Projects)</a>
+        <a href="https://github.com/MusfiqDehan#%EF%B8%8F-views-and-followers">(Go to My Pinned Projects)</a>
     </p>
 </samp>
 
