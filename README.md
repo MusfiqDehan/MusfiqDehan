@@ -1,12 +1,16 @@
-<samp>
+<!-- <samp> -->
 
 <!--<a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>-->
 
-<h1 align="center">👋Hey there!</h1>
+<samp>
+    <h1 align="center">👋Hey there!</h1>
+</samp>
 
-<h3 align="center">I am <code><b>Md. Musfiqur Rahaman</b></code>.</h3>
+<samp>
+    <h3 align="center">I am <code><b>Md. Musfiqur Rahaman</b></code></h3>
+</samp>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -28,8 +32,9 @@
 </p> -->
 
     
-<h2 align="center"> 🙋‍♂️ About Me </h2>
-    
+<samp>
+    <h2 align="center"> 🙋‍♂️ About Me </h2>
+</samp>   
  <a href="" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img style="border-radius: 100px;" align="right" src="https://user-images.githubusercontent.com/47440165/184950012-4a36f782-f7e9-44cb-affc-cc82d67561fb.gif" width="400" height="300" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>
@@ -52,7 +57,9 @@
 <br>
 
 
-<h2 align="center"> 🚀 Languages and Tools </h2>
+<samp>
+    <h2 align="center"> 🚀 Languages and Tools</h2>
+</samp>
   
 <p align="center"> 
     <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
@@ -71,7 +78,9 @@
 
 <br/>
   
-<h2 align="center"> 📊 My Github Stats </h2>
+<samp>
+    <h2 align="center"> 📊 My Github Stats </h2>
+</samp>
 <p align="center">
     <table align="center">
         <tr>
@@ -106,7 +115,11 @@
 <br/>
 
 <details align="center">
-    <summary><h2 align="center">🕑 WakaTime Coding Stats </h2></summary>
+    <summary>
+        <samp>
+            <h2 align="center">🕑 WakaTime Coding Stats </h2>
+        </samp>
+    </summary>
     <p align="center">
         <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
             <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
@@ -124,7 +137,9 @@
 </details>
 
 
-<h2 align="center"> 🔗 Connect with me </h2>
+<samp>
+    <h2 align="center"> 🔗 Connect with me </h2>
+</samp>
 <p align="center">
 <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
@@ -135,7 +150,9 @@
 <!-- <a href = "https://musfiqdehan.me/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a> -->
 </p>
 
-<h2 align="center"> ❤️ Views and Followers </h2>
+<samp>
+    <h2 align="center"> ❤️ Views and Followers </h2>
+</samp>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MusfiqDehan" width="150px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -147,4 +164,4 @@
     
 </p>
 
-</samp>
+<!-- </samp> -->
