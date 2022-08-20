@@ -52,7 +52,7 @@
 
 - 👨‍💻  : Most of my projects are available at **[My GitHub](https://github.com/MusfiqDehan)**
 
-- 📫  : How to reach me **[musfiqur.rahaman@northsouth.edu]()**
+- 📫  : How to reach me **[musfiqdehan@gmail.com]()**
 
 - 👨‍🎓 : You can also find me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
 
