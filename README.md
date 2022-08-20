@@ -117,7 +117,7 @@
 <br/>
 <br/>
 
-## My Latest Blog Posts 👇
+<samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377080047/My8jXQMvx.png" alt="How AI and Data Analytics will Change the Future of Bangladesh?"   /></a>
 <a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><strong>How AI and Data Analytics will Change the Future of Bangladesh?</strong></a>
