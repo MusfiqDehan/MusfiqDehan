@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    I am a dynamic and ambitious <code>Computer Science Graduate</code> student from <code>North South University</code>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
+    I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
 <p>
 
 <!-- <p align="center">
