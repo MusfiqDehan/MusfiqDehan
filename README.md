@@ -6,6 +6,9 @@
 
 <samp>
     <h1 align="center">👋Hey there!</h1>
+    <p align="center">
+        <a href="https://github.com/MusfiqDehan#-%EF%B8%8F-views-and-followers-">(Go to My Pinned Projects)</a>
+    </p>
 </samp>
 
 <samp>
@@ -151,7 +154,7 @@
 </p>
 
 <samp>
-    <h2 align="center"> ❤️ Views and Followers </h2>
+    <h2 align="center">❤️ Views and Followers</h2>
 </samp>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
