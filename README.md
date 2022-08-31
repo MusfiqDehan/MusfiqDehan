@@ -6,9 +6,9 @@
 
 <samp>
     <h1 align="center">👋Hey there!</h1>
-    <p align="center">
+<!--     <p align="center">
         <a href="https://github.com/MusfiqDehan#%EF%B8%8F-views-and-followers">(Click Here to Directly Go to My Pinned Repositories)</a>
-    </p>
+    </p> -->
 </samp>
 
 <samp>
@@ -34,6 +34,10 @@
     </a>
 </p>
 
+
+<details>
+    <summary align="center"><b>CLICK HERE TO VIEW MORE DETAILS!</b></summary>
+   
     
 <samp>
     <h2 align="center"> 🙋‍♂️ About Me </h2>
@@ -181,4 +185,5 @@ In Economics, when in a society, human needs are greater than the available reso
     
 </p>
 
+</details>
 <!-- </samp> -->
