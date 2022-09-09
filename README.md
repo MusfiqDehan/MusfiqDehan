@@ -125,13 +125,11 @@
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377080047/My8jXQMvx.png" alt="How AI and Data Analytics will Change the Future of Bangladesh?"   /></a>
 <a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><strong>How AI and Data Analytics will Change the Future of Bangladesh?</strong></a>
-<div><strong>8 July 2022</strong> | <strong>Updated: 13 Aug 2022</strong></div>
-<br/> Introduction
-AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow...</td><td><a href="https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest" title="How can we make the people of our society more skilled and honest?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377507379/zhgZnqNwa.png" alt="How can we make the people of our society more skilled and honest?"   /></a>
+<div><strong>8 July 2022</strong> | <strong>Updated: 8 Sept 2022</strong></div>
+<br/> AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow our business...</td><td><a href="https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest" title="How can we make the people of our society more skilled and honest?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377507379/zhgZnqNwa.png" alt="How can we make the people of our society more skilled and honest?"   /></a>
 <a href="https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest" title="How can we make the people of our society more skilled and honest?"><strong>How can we make the people of our society more skilled and honest?</strong></a>
-<div><strong>20 July 2021</strong> | <strong>Updated: 13 Aug 2022</strong></div>
-<br/> Introduction
-In Economics, when in a society, human needs are greater than the available resources, then the society will face scarcity. If a society faces scarcity, that means that the society has limited resources and it cannot fulfill the need of ...</td></tr></table>
+<div><strong>20 July 2021</strong> | <strong>Updated: 8 Sept 2022</strong></div>
+<br/> In Economics, when in a society, human needs are greater than the available resources, then the society will face scarcity. If a society faces scarcity, that means that the society has limited resources and it cannot fulfill the need of every people....</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
