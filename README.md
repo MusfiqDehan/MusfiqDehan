@@ -36,7 +36,7 @@
 
 
 <details>
-    <summary align="center"><b>CLICK HERE TO VIEW MORE DETAILS!</b></summary>
+    <summary align="center"><b>CLICK HERE TO VIEW MORE STATS!</b></summary>
    
     
 <samp>
