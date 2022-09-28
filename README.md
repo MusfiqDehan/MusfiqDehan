@@ -123,7 +123,11 @@
 
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377080047/My8jXQMvx.png" alt="How AI and Data Analytics will Change the Future of Bangladesh?"   /></a>
+<table><tr><td><a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664294709712/pJg_xuqvO.png" alt="Adding Items in a JavaScript Array"   /></a>
+<a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><strong>Adding Items in a JavaScript Array</strong></a>
+<div><strong>27 Sept 2022</strong></div>
+<br/> The array is one of the essential Data Structures. In JavaScript, we have many built-in Array methods to manipulate an array. In this article, we will learn how we can add items at the start, middle, and end of a JavaScript Array. 
+Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377080047/My8jXQMvx.png" alt="How AI and Data Analytics will Change the Future of Bangladesh?"   /></a>
 <a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><strong>How AI and Data Analytics will Change the Future of Bangladesh?</strong></a>
 <div><strong>8 July 2022</strong> | <strong>Updated: 8 Sept 2022</strong></div>
 <br/> AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow our business...</td><td><a href="https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest" title="How can we make the people of our society more skilled and honest?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377507379/zhgZnqNwa.png" alt="How can we make the people of our society more skilled and honest?"   /></a>
