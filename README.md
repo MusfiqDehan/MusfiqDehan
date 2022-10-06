@@ -41,6 +41,9 @@
     <a href="https://blog.musfiqdehan.me/" target="_blank">
         <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
+    <a href="https://links.musfiqdehan.me/" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Links-links.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=ff96b1&colorB=ff96be&style=for-the-badge"/>
+    </a>
 </p>
 
 
