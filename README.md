@@ -21,6 +21,19 @@
 </a>
 </p>
 
+<!-- <samp>
+    <h2 align="center"> 🔗 Connect with me </h2>
+</samp> -->
+<p align="center">
+<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
+<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/ios-filled/48/codepen.png"></a>
+<!-- <a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a> -->
+<a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
+<a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
+<a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png"></a>
+</p>
+
 <p align="center">
     I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
 <p>
@@ -161,31 +174,19 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
 
 
 <samp>
-    <h2 align="center"> 🔗 Connect with me </h2>
+    <h2 align="center">Views and Followers</h2>
 </samp>
 <p align="center">
-<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
-<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
-<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/ios-filled/48/codepen.png"></a>
-<a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/170583847-d14634c7-5ed1-4869-bb1e-50e084ddcb17.png"></a>
-<a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
-<a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://user-images.githubusercontent.com/47440165/172096045-dce462c7-71d3-4e3c-889b-158dc75c374b.png"></a>
-<!-- <a href = "https://musfiqdehan.me/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/home.png"></a> -->
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=MusfiqDehan" width="150px">&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://github.com/MusfiqDehan?tab=followers">
+        <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" width="150px" alt="GitHub Badge">
+    </a>   
 </p>
 
-<samp>
-    <h2 align="center">❤️ Views and Followers</h2>
-</samp>
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MusfiqDehan" width="150px">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://github.com/MusfiqDehan?tab=followers">
-    <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" width="150px" alt="GitHub Badge">
-</a>
-    
-    
-</p>
+<p align="center"><code> © 2022 | Md. Musfiqur Rahaman </code></p>
+
 
 </details>
 <!-- </samp> -->
