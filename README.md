@@ -31,7 +31,7 @@
 <a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
 <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
-<a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png"></a>
+<a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png"></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 
 
 <details>
-    <summary align="center"><b>CLICK HERE TO VIEW MORE STATS!</b></summary>
+    <summary align="center"><b>CLICK HERE TO VIEW MORE STATS!👈</b></summary>
    
     
 <samp>
