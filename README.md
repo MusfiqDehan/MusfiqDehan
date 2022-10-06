@@ -26,23 +26,20 @@
 <p>
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
-<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
-<a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
-<a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
-<a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
-<a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png"></a>
+<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/24/000000/linkedin.png"></a>
+<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"></a>
+<a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
+<a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
+<a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
+<a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/24/000000/codechef.png"></a>
 </p>
 
 <p align="center">
-    <a href="https://musfiqdehan.me/" target="_blank">
+    <a href="https://musfiqdehan.me" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
-    <a href="https://blog.musfiqdehan.me/" target="_blank">
+    <a href="https://blog.musfiqdehan.me" target="_blank">
         <img src="https://img.shields.io/badge/My%20Blog-blog.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-    <a href="https://links.musfiqdehan.me/" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Links-links.musfiqdehan.me%20%E2%86%92-gray.svg?colorA=ff96b1&colorB=ff96be&style=for-the-badge"/>
     </a>
 </p>
 
