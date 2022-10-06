@@ -21,22 +21,18 @@
 </a>
 </p>
 
-<!-- <samp>
-    <h2 align="center"> 🔗 Connect with me </h2>
-</samp> -->
+<p align="center">
+    I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
+<p>
+
 <p align="center">
 <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
-<a href = "https://codepen.io/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/ios-filled/48/codepen.png"></a>
-<!-- <a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a> -->
+<a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
 <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
 <a href = "https://www.kaggle.com/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/48/000000/codechef.png"></a>
 </p>
-
-<p align="center">
-    I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
-<p>
 
 <p align="center">
     <a href="https://musfiqdehan.me/" target="_blank">
