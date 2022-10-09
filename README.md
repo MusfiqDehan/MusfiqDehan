@@ -174,10 +174,10 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
 </samp>
 <p align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=MusfiqDehan" width="150px">&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://komarev.com/ghpvc/?username=MusfiqDehan">&nbsp;&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://github.com/MusfiqDehan?tab=followers">
-        <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" width="150px" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/MusfiqDehan?label=Followers&style=social" alt="GitHub Badge">
     </a>   
 </p>
 
