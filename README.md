@@ -93,6 +93,19 @@
 </p>
 
 <br/>
+    
+<!-- <table>
+    <tr>
+        <td>
+            Languages
+        </td>
+        <td>
+            <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> </a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/> </a>
+            <a href="https://www.programiz.com/python-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> </a>
+        </td>
+    </tr>
+</table> -->
   
 <samp>
     <h2 align="center"> 📊 My Github Stats </h2>
