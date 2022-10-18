@@ -1,10 +1,16 @@
 <!-- <samp> -->
 
-<!--<a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
-    <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
-</a>-->
+<!-- [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan) -->
 
-[![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan)
+<a href="https://holopin.io/@musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Holopin board">
+    <img align="left" src="https://holopin.me/musfiqdehan" alt="@musfiqdehan's Holopin board"/>
+</a>
+
+<p align="center"><em>:tada: <a href="https://hacktoberfest.com">Completed Hacktoberfest 2022</a> :tada:</em></p>
+
+<!-- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
+    <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
+</a> -->
 
 <samp>
     <h1 align="center">👋Hey there!</h1>
