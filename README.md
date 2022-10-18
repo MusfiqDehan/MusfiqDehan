@@ -64,16 +64,15 @@
 </a>
  
 
-- 🔭  : I’m currently working and researching on an **Bengali to English Word Alignment (Natural Language Processing)**
+- 🔭  : I’m currently doing **Problem Solving** and contributing on different **Open Source Projects**
 
-- 🌱  : I’m currently learning **Django REST Framework & React**
+- 🌱  : I’m currently learning **Reactjs, Nextjs and Nodejs**
 
-- 👯  : I want to contribute in any **Python, Django & NLP related Open Source Projects**
 - 👯  : I want contribution at **[Data-Preprocessors - A Python Package](https://github.com/MusfiqDehan/data-preprocessors)** 
 
 - 👨‍💻  : Most of my projects are available at **[My GitHub](https://github.com/MusfiqDehan)**
 
-- 📫  : How to reach me **[musfiqdehan@gmail.com]()**
+- 📫  : How to reach me **[musfiq@musfiqdehan.me]()**
 
 - 👨‍🎓 : You can also find me in <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan" target="_blank"><b>GitHub Graduation Yearbook 2022</b></a>
 
