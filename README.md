@@ -200,11 +200,11 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Github Stats" src="https://github-readme-stats-musfiqdehan.vercel.app/api?username=MusfiqDehan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqDehan&langs_count=8.0&hide=php,hack,jupyter%20notebook,html,java,vue&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Musfiqur Rahaman's Top Languages" src="https://github-readme-stats-musfiqdehan.vercel.app/api/top-langs/?username=MusfiqDehan&langs_count=8.0&hide=php,hack,jupyter%20notebook,html,java,vue&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
