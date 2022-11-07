@@ -100,6 +100,10 @@
 </p>
 
 <br/>
+    
+## Metrics
+    
+<img src="/github-metrics.svg" alt="Metrics" width="59%">
   
 <!-- <samp>  
     <h2 align="center"> ⚡ Technologies </h2>
