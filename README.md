@@ -1,6 +1,4 @@
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
-
 <!-- <samp> -->
 
 <!-- [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan) -->
@@ -184,6 +182,7 @@
   </tr>
                                                                                       
 </table> -->
+    
   
 <samp>
     <h2 align="center"> 📊 My Github Stats </h2>
@@ -237,28 +236,30 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
 <!-- HASHNODE_BLOG:END -->
 
 
-<details align="center">
-    <summary>
-        <samp>
-            <h2 align="center">🕑 WakaTime Coding Stats </h2>
-        </samp>
-    </summary>
-    <p align="center">
-        <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
-            <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
-        </a>
-        <table align="center">
-            <tr>
-                <td>
-                    <a href="https://wakatime.com/@MusfiqDehan">
-                        <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
-                    </a>
-                </td>
-            </tr>
-       </table>
-    </p>
-</details>
+<samp>
+     <h2 align="center">🕑 WakaTime Coding Stats </h2>
+</samp>
 
+<p align="center">
+    <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
+        <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
+    </a>
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://wakatime.com/@MusfiqDehan">
+                    <img title="Wakatime Weekly Coding States" src="https://github-readme-stats.vercel.app/api/wakatime?username=MusfiqDehan&theme=react&hide_border=true&bg_color=0D1117&hide_title=true">
+                </a>
+            </td>
+        </tr>
+   </table>
+</p>
+
+
+<samp>
+    <h2 align="center">Metrics</h2>
+</samp>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <samp>
     <h2 align="center">Views and Followers</h2>
