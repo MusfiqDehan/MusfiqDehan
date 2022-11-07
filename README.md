@@ -103,7 +103,7 @@
     
 ## Metrics
     
-<img src="/github-metrics.svg" alt="Metrics" width="59%">
+![Metrics](https://metrics.lecoq.io/musfiqdehan?template=classic&leetcode=1&wakatime=1&isocalendar=1&introduction=1&notable=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=false&posts=false&posts.source=hashnode&posts.user=musfiqdehan&posts.descriptions=true&posts.covers=true&posts.limit=3&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=musfiqdehan&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&leetcode=false&leetcode.user=musfiqdehan&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FDhaka&config.display=columns)
   
 <!-- <samp>  
     <h2 align="center"> ⚡ Technologies </h2>
