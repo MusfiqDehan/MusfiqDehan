@@ -27,8 +27,8 @@ jobs:
           # Options
           user: musfiqdehan
           template: classic
-          base: ""
-          base_hireable: yes
+#           base: ""
+#           base_hireable: yes
           config_display: columns
           config_timezone: Asia/Dhaka
           plugin_isocalendar: yes
