@@ -1,3 +1,6 @@
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <!-- <samp> -->
 
 <!-- [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan) -->
