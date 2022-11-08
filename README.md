@@ -259,7 +259,7 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
 <samp>
     <h2 align="center">Metrics</h2>
 </samp>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%" height="400px">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%" height="650px">
 
 <samp>
     <h2 align="center">Views and Followers</h2>
