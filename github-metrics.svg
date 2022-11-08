@@ -1022,10 +1022,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.764705882352941 0,5.764705882352941 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.764705882352941 1.7,6.764705882352941 z"/>
                             </g>
-                            <g transform="translate(-8.5, 6.411764705882353)">
+                            <g transform="translate(-8.5, 6.235294117647059)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.588235294117647 0,5.588235294117647 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.588235294117647 1.7,6.588235294117647 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.764705882352941 0,5.764705882352941 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.764705882352941 1.7,6.764705882352941 z"/>
                             </g>
                             <g transform="translate(-10.2, 9)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1145,8 +1145,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.16646366220057 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">136</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.30004060089322 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">137</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2463</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1154,8 +1154,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="59.91721854304635 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">110</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.461920529801326 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">111</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/604</text>
                                 </svg>
                                 <span class="title">Easy</span>
