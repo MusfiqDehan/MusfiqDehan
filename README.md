@@ -3,11 +3,16 @@
 
 <!-- [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan) -->
 
-<a href="https://holopin.io/@musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Holopin board">
-    <img align="left" src="https://holopin.me/musfiqdehan" alt="@musfiqdehan's Holopin board"/>
-</a>
 
-<p align="center">:tada:<sub> <a href="https://hacktoberfest.com">Completed Hacktoberfest Challenge 2022</a> </sub>:tada:</p>
+
+<p align="center">
+    :tada:<sub> <a href="https://hacktoberfest.com">Completed Hacktoberfest Challenge 2022</a> </sub>:tada:
+    <br>
+    🏠👨‍💻
+    <br>
+    <sub> <a href="mailto: musfiq@musfiqdehan.me">Open For Remote Opportunities (JavaScript, React, MERN)</a> </sub>
+</p>
+
 
 <!-- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="400" alt="Md. Musfiqur Rahaman's Dev Card"/>
@@ -30,17 +35,24 @@
 </a>
 </p>
 
-<p align="center">   
-    I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
-<p>
+ 
+- Recent <b><code>Computer Science Graduate</code></b> student from <b><code>North South University, Bangladesh</code></b>. 
+- Solved around <b>300+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>15+</b> contests in  these platforms. 
+- Completed <b>Hacktoberfest-Challenge-2022</b> and contributing in different Open Source Projects. 
+- Got the opportunity to explore many tech stack in University 
+- Have basic understanding of Software Engineering principles, Design Patters, Data Structure and Algorithms. 
+- Done several JavaScript, React, MERN stack projects
+- Want to increase my professional experience by joining any organization for Front End Developer or Full Stack JavaScript Developer roles. Open for any Remote Opportunity.
+- Write tech blogs on my personal blog and take nature photography in free time.
+
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/24/000000/linkedin.png"></a>
-<a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"></a>
-<a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
-<a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
-<a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
-<a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/24/000000/codechef.png"></a>
+    <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"></a>
+    <a href = "https://twitter.com/MusfiqDehan" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"></a>
+    <a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
+    <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
+    <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
+    <a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/32/000000/codechef.png"></a>
 </p>
 
 <p align="center">
@@ -255,11 +267,6 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
    </table>
 </p>
 
-
-<samp>
-    <h2 align="center">Metrics</h2>
-</samp>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%" height="650px">
 
 <samp>
     <h2 align="center">Views and Followers</h2>
