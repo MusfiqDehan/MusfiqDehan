@@ -26,11 +26,11 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Python+and+JavaScript+Developer;Content+Creator&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Python+and+JavaScript+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
 </a>
 </p>
 
-<p align="center">
+<p align="center">   
     I am a dynamic and ambitious <b><code>Computer Science Graduate</code></b> student from <b><code>North South University</code></b>, looking for cross-disciplinary research opportunities where I  can apply my theoretical knowledge, analytical approach and communication strategies to improve my set of skills. I am motivated by the notion of integrating <b>Data Science</b> and <b>Software Engineering</b> principles into practice. 
 <p>
 
