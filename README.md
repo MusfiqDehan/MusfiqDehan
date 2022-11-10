@@ -19,7 +19,7 @@
 </a> -->
 
 <samp>
-    <h1 align="center">👋Hey there!</h1>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 <!--     <p align="center">
         <a href="https://github.com/MusfiqDehan#%EF%B8%8F-views-and-followers">(Click Here to Directly Go to My Pinned Repositories)</a>
     </p> -->
