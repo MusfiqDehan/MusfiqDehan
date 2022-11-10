@@ -232,6 +232,10 @@
 <br/>
 <br/>
 
+<samp>
+    <h2 align="center"> 🙋‍♂️ Badges </h2>    
+</samp>  
+
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664294709712/pJg_xuqvO.png" alt="Adding Items in a JavaScript Array"   /></a>
