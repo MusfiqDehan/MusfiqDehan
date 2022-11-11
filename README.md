@@ -232,14 +232,6 @@
 <br/>
 <br/>
 
-<samp>
-    <h2 align="center"> 🙋‍♂️ Badges </h2>    
-</samp>  
-<p>
-    [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan)
-</p>
-<br>
-<br>
 
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
@@ -255,6 +247,16 @@ Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-da
 <div><strong>20 July 2021</strong> | <strong>Updated: 8 Sept 2022</strong></div>
 <br/> In Economics, when in a society, human needs are greater than the available resources, then the society will face scarcity. If a society faces scarcity, that means that the society has limited resources and it cannot fulfill the need of every people....</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
+
+
+<samp>
+    <h2 align="center"> 🙋‍♂️ Badges </h2>    
+</samp>  
+<a href="https://holopin.io/@musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Holopin board">
+    <img src="https://holopin.me/musfiqdehan" alt="@musfiqdehan's Holopin board"/>
+</a>
+<br>
+<br>
 
 
 <samp>
