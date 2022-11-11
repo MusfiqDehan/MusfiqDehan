@@ -235,6 +235,11 @@
 <samp>
     <h2 align="center"> 🙋‍♂️ Badges </h2>    
 </samp>  
+<p>
+    [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan)
+</p>
+<br>
+<br>
 
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
