@@ -1,16 +1,9 @@
 
 <!-- <samp> -->
 
-<!-- [![@musfiqdehan's Holopin board](https://holopin.me/musfiqdehan)](https://holopin.io/@musfiqdehan) -->
-
-
 
 <p align="center">
-    :tada:<sub> <a href="https://hacktoberfest.com">Completed Hacktoberfest Challenge 2022</a> </sub>:tada:
-    <br>
-    🏠👨‍💻
-    <br>
-    <sub> <a href="mailto: musfiq@musfiqdehan.me">Open For Remote Opportunities (JavaScript, React, MERN)</a> </sub>
+<sub> <a href="https://hacktoberfest.com">Completed Hacktoberfest Challenge 2022</a> -- (<a href="mailto: musfiq@musfiqdehan.me">Open To Work</a>) -- <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan">Find me in GitHub Graduation Yearbook 2022</a> </sub>
 </p>
 
 
@@ -20,9 +13,6 @@
 
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
-<!--     <p align="center">
-        <a href="https://github.com/MusfiqDehan#%EF%B8%8F-views-and-followers">(Click Here to Directly Go to My Pinned Repositories)</a>
-    </p> -->
 </samp>
 
 <samp>
@@ -37,7 +27,7 @@
 
  
 - Recent <b><code>Computer Science Graduate</code></b> student from <b><code>North South University, Bangladesh</code></b>. 
-- Solved around <b>300+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>15+</b> contests in  these platforms. 
+- Solved around <b>350+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>15+</b> contests in  these platforms. 
 - Completed <b>Hacktoberfest-Challenge-2022</b> and contributing in different Open Source Projects. 
 - Got the opportunity to explore many tech stack in University 
 - Have basic understanding of Software Engineering principles, Design Patters, Data Structure and Algorithms. 
