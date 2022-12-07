@@ -27,7 +27,7 @@
 
  
 - Recent <b><code>Computer Science Graduate</code></b> student from <b><code>North South University, Bangladesh</code></b>. 
-- Solved around <b>350+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>15+</b> contests in  these platforms. 
+- Solved around <b>400+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>20+</b> contests in  these platforms. 
 - Completed <b>Hacktoberfest-Challenge-2022</b> and contributing in different Open Source Projects. 
 - Got the opportunity to explore many tech stack in University 
 - Have basic understanding of Software Engineering principles, Design Patters, Data Structure and Algorithms. 
