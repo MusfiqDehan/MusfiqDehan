@@ -32,7 +32,7 @@
 - Got the opportunity to explore many tech stack in University 
 - Have basic understanding of Software Engineering principles, Design Patters, Data Structure and Algorithms. 
 - Done several JavaScript, React, MERN stack projects
-- Want to increase my professional experience by joining any organization for Front End Developer or Full Stack JavaScript Developer roles. Open for any Remote Opportunity.
+- Want to increase my professional experience by joining any organization for entry level Software Engineer or Python Developer roles. Open for any Remote Opportunity.
 - Write tech blogs on my personal blog and take nature photography in free time.
 
 
