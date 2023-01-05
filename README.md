@@ -233,19 +233,24 @@
 
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://blog.musfiqdehan.me/migrating-my-apps-from-heroku-to-railway" title="Migrating my apps from Heroku to Railway"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670395695743/C0GveAcMO.png" alt="Migrating my apps from Heroku to Railway"   /></a>
-<a href="https://blog.musfiqdehan.me/migrating-my-apps-from-heroku-to-railway" title="Migrating my apps from Heroku to Railway"><strong>Migrating my apps from Heroku to Railway</strong></a>
-<div><strong>7 Dec 2022</strong> | <strong>Updated: 7 Dec 2022</strong></div>
+<table><tr><td><a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670395695743/C0GveAcMO.png" alt="Migrating my Django app from Heroku to Railway"   /></a>
+<a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><strong>Migrating my Django app from Heroku to Railway</strong></a>
+<div><strong>7 Dec 2022</strong> | <strong>Updated: 4 Jan 2023</strong></div>
 <br/> Heroku is slowly closing all its free services from 28th November. My free deployments were also removed. So, let's migrate them from Heroku.
 What is Heroku?
-Heroku is one of the most popular cloud PaaS (Platform as a Service) platforms. If you are a...</td><td><a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664294709712/pJg_xuqvO.png" alt="Adding Items in a JavaScript Array"   /></a>
+Heroku is one of the most popular cloud PaaS (Platform as a Service) platforms. If you are a...</td><td><a href="https://blog.musfiqdehan.me/deleting-items-from-a-javascript-array" title="Deleting Items from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671110741065/ENijXLKmL.png" alt="Deleting Items from a JavaScript Array"   /></a>
+<a href="https://blog.musfiqdehan.me/deleting-items-from-a-javascript-array" title="Deleting Items from a JavaScript Array"><strong>Deleting Items from a JavaScript Array</strong></a>
+<div><strong>4 Oct 2022</strong></div>
+<br/> In this article, we will discuss how we can delete or remove items from the start, middle, and end of a JavaScript Array.
+Taking an Array
+First, let's take an array name fruits.
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+Now we will see di...</td><td><a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664294709712/pJg_xuqvO.png" alt="Adding Items in a JavaScript Array"   /></a>
 <a href="https://blog.musfiqdehan.me/adding-items-in-a-javascript-array" title="Adding Items in a JavaScript Array"><strong>Adding Items in a JavaScript Array</strong></a>
 <div><strong>27 Sept 2022</strong></div>
 <br/> The array is one of the essential Data Structures. In JavaScript, we have many built-in Array methods to manipulate an array. In this article, we will learn how we can add items at the start, middle, and end of a JavaScript Array. 
-Declaring an empty...</td><td><a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660377080047/My8jXQMvx.png" alt="How AI and Data Analytics will Change the Future of Bangladesh?"   /></a>
-<a href="https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh" title="How AI and Data Analytics will Change the Future of Bangladesh?"><strong>How AI and Data Analytics will Change the Future of Bangladesh?</strong></a>
-<div><strong>8 July 2022</strong> | <strong>Updated: 8 Sept 2022</strong></div>
-<br/> AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow our business...</td></tr></table>
+Declaring an empty...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
