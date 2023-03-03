@@ -2,9 +2,9 @@
 <!-- <samp> -->
 
 
-<p align="center">
+<!-- <p align="center">
 <sub> <a href="https://hacktoberfest.com">Completed Hacktoberfest Challenge 2022</a> -- (<a href="mailto: musfiq@musfiqdehan.me">Open To Work</a>) -- <a href="https://education.github.com/graduation/yearbook?sort=az&page=13&search=musfiqdehan#MusfiqDehan">Find me in GitHub Graduation Yearbook 2022</a> </sub>
-</p>
+</p> -->
 
 
 <!-- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
