@@ -25,8 +25,12 @@
 </a>
 </p>
 
-I am a Computer Science Graduate from North South University and currently doing my Masters in Information Technology (IT) at IIT, University of Dhaka. I am an Aspiring Software Engineer and an active Open Source Contributor. In my free time, I love to spend time with my family, writes blog post in my personal blog and loves to click nature photographs.
+<p align="justify">
+I am a <strong>Computer Science Graduate</strong> from <strong>North South University</strong> and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong>. I am an Aspiring Software Engineer and an active Open Source Contributor. In my free time, I love to spend time with my family, writes blog post in my personal blog and loves to click nature photographs.
+</p>
+    
 <br>
+
 <samp>
 <p align="center">
     To know more about me search <a href="https://www.google.com/search?q=musfiqdehan&source=hp&ei=wLYBZIXrDti6z7sPsLusiA0&iflsig=AK50M_UAAAAAZAHE0GFTEeWggnunqn0OoWG67DYBKXPy&ved=0ahUKEwiFy7u2sr_9AhVY3XMBHbAdC9EQ4dUDCAg&uact=5&oq=musfiqdehan&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCPARDqAjoICC4QjwEQ6gI6BQgAEIAEOgsIABCABBCxAxCDAToFCC4QgAQ6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARCvAToICAAQgAQQsQM6CAgAELEDEIMBOgUIABCxAzoECAAQAzoICC4QgAQQsQM6DgguEIAEELEDEMcBENEDOgsILhCDARCxAxCABDoHCC4QgAQQCjoHCAAQgAQQCjoECAAQHlC2HVjMPWC_RmgBcAB4AIABpwKIAfsPkgEFMC44LjOYAQCgAQGwAQo&sclient=gws-wiz">"musfiqdehan"</a> on any search engine
