@@ -42,7 +42,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
     <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
     <a href = "https://www.codechef.com/users/musfiqdehan" title="CodeChef"><img src="https://img.icons8.com/color/32/000000/codechef.png"></a>
-    <a href = "" ><img src="https://img.icons8.com/fluency/32/instagram-new.png"></a>
+    <a href = "https://www.instagram.com/musfiqdehan/" ><img src="https://img.icons8.com/fluency/32/instagram-new.png"></a>
     <a href = "" ><img src="https://img.icons8.com/material-outlined/32/unsplash--v2.png"></a>
 </p>
 
