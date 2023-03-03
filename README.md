@@ -28,8 +28,6 @@
 <p align="justify">
 I am a <strong>Computer Science Graduate</strong> from <strong>North South University</strong> and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong>. I am an Aspiring Software Engineer and an active Open Source Contributor. In my free time, I love to spend time with my family, writes blog post in my personal blog and loves to click nature photographs.
 </p>
-    
-<br>
 
 <samp>
 <p align="center">
@@ -43,7 +41,9 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <a href = "https://codesandbox.io/u/musfiqdehan" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png"></a>
     <a href = "https://leetcode.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/4a90e2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
     <a href = "https://www.hackerrank.com/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
-    <a href = "https://www.codechef.com/users/musfiqdehan" target="_blank"><img src="https://img.icons8.com/color/32/000000/codechef.png"></a>
+    <a href = "https://www.codechef.com/users/musfiqdehan" title="CodeChef"><img src="https://img.icons8.com/color/32/000000/codechef.png"></a>
+    <a href = "" ><img src="https://img.icons8.com/fluency/32/instagram-new.png"></a>
+    <a href = "" ><img src="https://img.icons8.com/material-outlined/32/unsplash--v2.png"></a>
 </p>
 
 <p align="center">
