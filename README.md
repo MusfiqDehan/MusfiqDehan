@@ -25,16 +25,13 @@
 </a>
 </p>
 
- 
-- Recent <b><code>Computer Science Graduate</code></b> student from <b><code>North South University, Bangladesh</code></b>. 
-- Solved around <b>500+</b> problems on LeetCode, HackerRank and CodeChef. I also participated in around <b>20+</b> contests in  these platforms. 
-- Completed <b>Hacktoberfest-Challenge-2022</b> and contributing in different Open Source Projects. 
-- Got the opportunity to explore many tech stack in University 
-- Have basic understanding of Software Engineering principles, Design Patters, Data Structure and Algorithms. 
-- Done several JavaScript, React, MERN stack projects
-- Want to increase my professional experience by joining any organization for entry level Software Engineer or Python Developer roles. Open for any Remote Opportunity.
-- Write tech blogs on my personal blog and take nature photography in free time.
-
+I am a Computer Science Graduate from North South University and currently doing my Masters in Information Technology (IT) at IIT, University of Dhaka. I am an Aspiring Software Engineer and an active Open Source Contributor. In my free time, I love to spend time with my family, writes blog post in my personal blog and loves to click nature photographs.
+<br>
+<samp>
+<p align="center">
+    To know more about me search <a href="https://www.google.com/search?q=musfiqdehan&source=hp&ei=wLYBZIXrDti6z7sPsLusiA0&iflsig=AK50M_UAAAAAZAHE0GFTEeWggnunqn0OoWG67DYBKXPy&ved=0ahUKEwiFy7u2sr_9AhVY3XMBHbAdC9EQ4dUDCAg&uact=5&oq=musfiqdehan&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCPARDqAjoICC4QjwEQ6gI6BQgAEIAEOgsIABCABBCxAxCDAToFCC4QgAQ6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARCvAToICAAQgAQQsQM6CAgAELEDEIMBOgUIABCxAzoECAAQAzoICC4QgAQQsQM6DgguEIAEELEDEMcBENEDOgsILhCDARCxAxCABDoHCC4QgAQQCjoHCAAQgAQQCjoECAAQHlC2HVjMPWC_RmgBcAB4AIABpwKIAfsPkgEFMC44LjOYAQCgAQGwAQo&sclient=gws-wiz">"musfiqdehan"</a> on any search engine
+</p>
+</samp>
 
 <p align="center">
     <a href = "https://www.linkedin.com/in/MusfiqDehan/" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"></a>
