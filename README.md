@@ -225,6 +225,20 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 
 
 <samp><h2 align="center">:bulb: Problem Solving</h2></samp>
+
+<table>
+    <thead>
+        <td>Online Judge</td>
+        <td>Total Solve</td>
+    </thead>
+    <tbody>
+        <tr>
+           <td>LeetCode</td>
+           <td>227</td>
+        </tr>
+    </tbody>
+</table>
+
 <div align="center">
      <a href="https://leetcode.com/musfiqdehan">
          <img title="LeetCode Stats" alt="Md. Musfiqur Rahaman's LeetCode" src="https://leetcard.jacoblin.cool/musfiqdehan?ext=heatmap" />
