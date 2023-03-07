@@ -226,7 +226,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 
 <samp><h2 align="center">:bulb: Problem Solving</h2></samp>
 
-<table>
+<table align="center">
     <thead>
         <td>Online Judge</td>
         <td>Total Solve</td>
