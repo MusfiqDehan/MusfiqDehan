@@ -256,7 +256,7 @@ Declaring an empty...</td></tr></table>
 
 
 <samp>
-    <h2 align="center">🏅 Badges </h2>    
+    <h2 align="center">🏅 Badges & Achievements </h2>    
 </samp>  
 <a href="https://holopin.io/@musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Holopin board">
     <img src="https://holopin.me/musfiqdehan" alt="@musfiqdehan's Holopin board"/>
