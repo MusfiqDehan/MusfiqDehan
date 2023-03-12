@@ -234,7 +234,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <tbody>
         <tr>
            <td>LeetCode</td>
-           <td>227</td>
+           <td>230</td>
         </tr>
     </tbody>
 </table>
