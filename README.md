@@ -230,12 +230,13 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <thead>
         <td>Online Judge</td>
         <td>Total Solve</td>
+        <td>ID</td>
     </thead>
     <tbody>
         <tr>
            <td>LeetCode</td>
            <td>230</td>
-            <td>musfiqdehan</td>
+           <td>musfiqdehan</td>
         </tr>
     </tbody>
 </table>
