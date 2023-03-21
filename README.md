@@ -240,7 +240,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
         </tr>
         <tr>
            <td>CodeChef</td>
-           <td></td>
+           <td>164</td>
            <td><a href="">musfiqdehan</a></td>
         </tr>
     </tbody>
