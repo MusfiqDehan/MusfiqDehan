@@ -248,6 +248,11 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
            <td>118</td>
            <td><a href="https://www.hackerrank.com/musfiqdehan">musfiqdehan</a></td>
         </tr>
+        <tr>
+           <td>Total Solve</td>
+           <td>517</td>
+           <td></td>
+        </tr>
     </tbody>
 </table>
 
