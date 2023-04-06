@@ -228,7 +228,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 
 <table align="center">
     <thead>
-        <td>Online Judge</td>
+        <td><b>Online Judge</b></td>
         <td>Total Solve</td>
         <td>ID</td>
     </thead>
