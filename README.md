@@ -235,7 +235,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <tbody>
         <tr>
            <td>LeetCode</td>
-           <td>235</td>
+           <td>238</td>
            <td><a href="https://leetcode.com/musfiqdehan/">musfiqdehan</a></td>
         </tr>
         <tr>
@@ -250,7 +250,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
         </tr>
         <tr>
            <td>Total Solve</td>
-           <td>517</td>
+           <td>520</td>
            <td></td>
         </tr>
     </tbody>
