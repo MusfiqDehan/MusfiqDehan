@@ -230,27 +230,32 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <thead>
         <td><b>Online Judge</b></td>
         <td>Total Solve</td>
+        <td>Contests</td>
         <td>ID</td>
     </thead>
     <tbody>
         <tr>
            <td>LeetCode</td>
            <td>238</td>
+           <td></td>
            <td><a href="https://leetcode.com/musfiqdehan/">musfiqdehan</a></td>
         </tr>
         <tr>
            <td>CodeChef</td>
            <td>164</td>
+           <td></td>
            <td><a href="https://www.codechef.com/users/musfiqdehan">musfiqdehan</a></td>
         </tr>
         <tr>
            <td>HackerRank</td>
            <td>118</td>
+           <td></td>
            <td><a href="https://www.hackerrank.com/musfiqdehan">musfiqdehan</a></td>
         </tr>
         <tr>
            <td>Total Solve</td>
            <td>520</td>
+           <td></td>
            <td></td>
         </tr>
     </tbody>
