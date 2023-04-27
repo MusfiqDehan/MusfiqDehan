@@ -245,7 +245,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
         <tr>
            <td>CodeChef</td>
            <td>164</td>
-           <td></td>
+           <td>21</td>
            <td><a href="https://www.codechef.com/users/musfiqdehan">musfiqdehan</a></td>
         </tr>
         <tr>
