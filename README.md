@@ -257,7 +257,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
         <tr>
            <td>Total Solve</td>
            <td>528</td>
-           <td></td>
+           <td>31</td>
            <td></td>
         </tr>
     </tbody>
