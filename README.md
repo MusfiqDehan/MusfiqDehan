@@ -12,7 +12,7 @@
 </a> -->
 
 <samp>
-    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Assalamu Alaikum. Hey there!</h1>
 </samp>
 
 <samp>
