@@ -26,7 +26,9 @@
 </p>
 
 <p align="justify">
-I am a <strong>Computer Science Graduate</strong> from <strong>North South University</strong> and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong>. I am an <strong>Aspiring Software Engineer</strong> and an active <strong>Open Source Contributor</strong>. In my free time, I love to spend time with my family, write blog posts in my personal blog and love to click nature photographs.
+I am a <strong>Computer Science Graduate</strong> from <strong>North South University</strong>.
+<!--     and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong>.  -->
+    I am an <strong>Aspiring Software Engineer</strong> and an active <strong>Open Source Contributor</strong>. In my free time, I love to spend time with my family, write blog posts in my personal blog and love to click nature photographs.
 </p>
 
 <!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
