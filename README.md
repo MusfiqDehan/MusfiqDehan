@@ -33,11 +33,11 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 
 <!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
 
-<samp>
+<!-- <samp>
 <p align="center">
     To know more about me search <a href="https://www.google.com/search?q=musfiqdehan&source=hp&ei=wLYBZIXrDti6z7sPsLusiA0&iflsig=AK50M_UAAAAAZAHE0GFTEeWggnunqn0OoWG67DYBKXPy&ved=0ahUKEwiFy7u2sr_9AhVY3XMBHbAdC9EQ4dUDCAg&uact=5&oq=musfiqdehan&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCPARDqAjoICC4QjwEQ6gI6BQgAEIAEOgsIABCABBCxAxCDAToFCC4QgAQ6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARCvAToICAAQgAQQsQM6CAgAELEDEIMBOgUIABCxAzoECAAQAzoICC4QgAQQsQM6DgguEIAEELEDEMcBENEDOgsILhCDARCxAxCABDoHCC4QgAQQCjoHCAAQgAQQCjoECAAQHlC2HVjMPWC_RmgBcAB4AIABpwKIAfsPkgEFMC44LjOYAQCgAQGwAQo&sclient=gws-wiz">"musfiqdehan"</a> on any search engine
 </p>
-</samp>
+</samp> -->
 
 <p align="center">
     <a href = "https://www.linkedin.com/in/musfiqdehan" title="LinkedIn"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"></a>
