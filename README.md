@@ -200,7 +200,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=MusfiqDehan&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"></a>
+        <img src="https://streak-stats.demolab.com?user=musfiqdehan&theme=react&hide_border=true"></a>
             </td>
         </tr>
    </table>
