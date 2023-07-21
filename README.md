@@ -275,25 +275,20 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 
 <samp><h2 align="center">📚 My Latest Blog Posts</h2></samp>
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670395695743/C0GveAcMO.png" alt="Migrating my Django app from Heroku to Railway"   /></a>
-<a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><strong>Migrating my Django app from Heroku to Railway</strong></a>
-<div><strong>7 Dec 2022</strong> | <strong>Updated: 4 Jan 2023</strong></div>
-<br/> Heroku is slowly closing all its free services from 28th November. My free deployments were also removed. So, let's migrate them from Heroku.
-What is Heroku?
-Heroku is one of the most popular cloud PaaS (Platform as a Service) platforms. If you are a...</td><td><a href="https://blog.musfiqdehan.me/pass-by-value-vs-pass-by-reference" title="Pass by Value vs Pass by Reference"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679306660110/44c9fa6d-54c9-4e32-a63d-706ba18a8e3e.png" alt="Pass by Value vs Pass by Reference"   /></a>
+<table><tr><td><a href="https://blog.musfiqdehan.me/making-a-react-todo-app-and-deploying-it-in-vercel" title="Making a React ToDo App and Deploying it in Vercel"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689847211619/e890d53d-52a6-48d1-97c4-05ee4c2a54e3.png" alt="Making a React ToDo App and Deploying it in Vercel"   /></a>
+<a href="https://blog.musfiqdehan.me/making-a-react-todo-app-and-deploying-it-in-vercel" title="Making a React ToDo App and Deploying it in Vercel"><strong>Making a React ToDo App and Deploying it in Vercel</strong></a>
+<div><strong>21 Dec 2022</strong> | <strong>Updated: 20 July 2023</strong></div>
+<br/> Making a ToDo app is one of the easiest ways to learn CRUD operations. CRUD means Create, Read, Update, Delete. To create a ToDo app with CRUD functionality using Reactjs, you can follow the steps below. We will also deploy our app in Vercel after ma...</td><td><a href="https://blog.musfiqdehan.me/pass-by-value-vs-pass-by-reference" title="Pass by Value vs Pass by Reference"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679306660110/44c9fa6d-54c9-4e32-a63d-706ba18a8e3e.png" alt="Pass by Value vs Pass by Reference"   /></a>
 <a href="https://blog.musfiqdehan.me/pass-by-value-vs-pass-by-reference" title="Pass by Value vs Pass by Reference"><strong>Pass by Value vs Pass by Reference</strong></a>
 <div><strong>20 Mar 2023</strong></div>
 <br/> In computer programming, when a piece of data is passed to a function or method, there are two main ways in which it can be passed: pass by value and pass by reference.
 Pass by Value
-In pass by value, the value of the argument is passed to the functi...</td><td><a href="https://blog.musfiqdehan.me/deleting-items-from-a-javascript-array" title="Deleting Items from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671110741065/ENijXLKmL.png" alt="Deleting Items from a JavaScript Array"   /></a>
-<a href="https://blog.musfiqdehan.me/deleting-items-from-a-javascript-array" title="Deleting Items from a JavaScript Array"><strong>Deleting Items from a JavaScript Array</strong></a>
-<div><strong>4 Oct 2022</strong></div>
-<br/> In this article, we will discuss how we can delete or remove items from the start, middle, and end of a JavaScript Array.
-Taking an Array
-First, let's take an array name fruits.
-var fruits = ["Banana", "Orange", "Apple", "Mango"];
-
-Now we will see di...</td></tr></table>
+In pass by value, the value of the argument is passed to the functi...</td><td><a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670395695743/C0GveAcMO.png" alt="Migrating my Django app from Heroku to Railway"   /></a>
+<a href="https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway" title="Migrating my Django app from Heroku to Railway"><strong>Migrating my Django app from Heroku to Railway</strong></a>
+<div><strong>7 Dec 2022</strong> | <strong>Updated: 4 Jan 2023</strong></div>
+<br/> Heroku is slowly closing all its free services from 28th November. My free deployments were also removed. So, let's migrate them from Heroku.
+What is Heroku?
+Heroku is one of the most popular cloud PaaS (Platform as a Service) platforms. If you are a...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 
