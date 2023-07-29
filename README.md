@@ -241,7 +241,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     <tbody>
         <tr>
            <td>LeetCode</td>
-           <td>303</td>
+           <td>312</td>
            <td>10</td>
            <td><a href="https://leetcode.com/musfiqdehan/">musfiqdehan</a></td>
         </tr>
