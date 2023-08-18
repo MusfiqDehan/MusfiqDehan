@@ -32,8 +32,6 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
     I am an <strong>Aspiring Software Engineer</strong> and an active <strong>Open Source Contributor</strong>. In my free time, I love to spend time with my family, write blog posts in my personal blog and love to click nature photographs.
 </p>
 
-https://github.com/MusfiqDehan/amicodingparina/assets/47440165/71fb67f1-e8d9-48f1-8193-9bd291d17dc9
-
 <!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
 
 <!-- <samp>
