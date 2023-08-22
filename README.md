@@ -29,7 +29,7 @@
 <p align="justify">
 I am a <strong>Computer Science Graduate</strong> from <strong>North South University</strong>.
 <!--     and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong>.  -->
-    I am an <strong>Aspiring Software Engineer</strong> and an active <strong>Open Source Contributor</strong>. In my free time, I love to spend time with my family, write blog posts in my personal blog and love to click nature photographs.
+    I am an <strong>Aspiring Software Engineer</strong> and an active <strong>Open Source Contributor</strong>. In my free time, I love to spend time with my family, write blog posts on my personal blog and love to click on nature photographs.
 </p>
 
 <!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
@@ -52,7 +52,7 @@ I am a <strong>Computer Science Graduate</strong> from <strong>North South Unive
 </p>
 
 <p align="center">
-    <a href="https://musfiqdehan.me" target="_blank">
+    <a href="https://musfiqdehan.github.io" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.me%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://blog.musfiqdehan.me" target="_blank">
