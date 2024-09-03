@@ -27,7 +27,9 @@
 </p>
 
 <p align="justify">
-I have completed my Master's in Information Technology from IIT, University of Dhaka and BSc in CSE from North South University. Currently, I am working as a Software Engineer Intern at Nimusoft Technology Ltd. I have decent experience in both Frontend and Backend development of an application. I have completed my final year thesis project in the area of Machine Learning and Natural Language Processing (NLP). Besides, I have worked on different Computer Vision related projects. I also have experience in Open Source Contributions which will help me to properly collaborate with a team in any Environment. In my free time, I love to write tech blogs and click nature photographs. I am excited to apply my skills and knowledge to real-world projects and contribute to a team of professionals in the field.
+I have completed my <strong>Master's in Information Technology</strong> from <strong>IIT, University of Dhaka</strong> and <strong>BSc in CSE</strong> from <strong>North South University</strong>. Currently, I am working as a <strong>Software Engineer Intern</strong> at <strong>Nimusoft Technology Ltd</strong>. 
+<br/>
+I mostly worked on Python Django Backend Development . But I have decent experience in Frontend, Backend, DevOps and AI. I can design the Frontend and integrate the Backend API and AI to it. I can make the deployment and maintainance of applications smoother by applying different DevOps principles. I have completed my final year thesis project in the area of Machine Learning and <strong>Natural Language Processing (NLP)</strong>. Besides, I have worked on different Computer Vision related projects. I also have experience in Open Source Contributions which will help me to properly collaborate with a team in any Environment. In my free time, I love to write tech blogs and click nature photographs. I am excited to apply my skills and knowledge to real-world projects and contribute to a team of professionals in the field.
 </p>
 
 <!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
