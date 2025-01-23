@@ -27,18 +27,11 @@
 </p>
 
 <p align="justify">
-I have completed my <strong>Master's in Information Technology</strong> from <strong>IIT, University of Dhaka</strong> and <strong>BSc in CSE</strong> from <strong>North South University</strong>. Currently, I am working as a <strong>Software Engineer</strong> at <strong>Nimusoft Technology Ltd</strong>. 
+I have completed my <strong>Master's in Information Technology</strong> from <strong>IIT, University of Dhaka</strong> and <strong>BSc in CSE</strong> from <strong>North South University</strong>. Currently, I am working as a Full-Time <strong>Backend Software Engineer</strong> at <strong>TechForing Ltd.</strong>. 
 <br/>
-I mostly worked on Python Django Backend Development . But I have decent experience in Frontend, Backend, DevOps and AI. I can design the Frontend and integrate the Backend API and AI to it. I can make the deployment and maintainance of applications smoother by applying different DevOps principles. I have completed my final year thesis project in the area of Machine Learning and <strong>Natural Language Processing (NLP)</strong>. Besides, I have worked on different Computer Vision related projects. I also have experience in Open Source Contributions which will help me to properly collaborate with a team in any Environment. In my free time, I love to write tech blogs and click nature photographs. I am excited to apply my skills and knowledge to real-world projects and contribute to a team of professionals in the field.
+Though I mostly worked on Backend Development, I have a great enthusiasm for DevOps and MLOps. I also have decent experience in Frontend, Backend, DevOps, and AI. I can design the Frontend and integrate the Backend API and AI to it. I can make the deployment and maintenance of applications smoother by applying different DevOps principles. I have completed my final year thesis project in the area of Machine Learning and <strong>Natural Language Processing (NLP)</strong>. Besides, I have worked on different Computer Vision related projects. I also have experience in Open Source Contributions, which will help me properly collaborate with a team in any Environment. I love to write tech blogs and click nature photographs in my free time. I am excited to apply my skills and knowledge to real-world projects and contribute to a team of professionals in the field.
 </p>
 
-<!-- and currently doing my <strong>Masters in Information Technology (IT)</strong> at <strong>IIT, University of Dhaka</strong> -->
-
-<!-- <samp>
-<p align="center">
-    To know more about me search <a href="https://www.google.com/search?q=musfiqdehan&source=hp&ei=wLYBZIXrDti6z7sPsLusiA0&iflsig=AK50M_UAAAAAZAHE0GFTEeWggnunqn0OoWG67DYBKXPy&ved=0ahUKEwiFy7u2sr_9AhVY3XMBHbAdC9EQ4dUDCAg&uact=5&oq=musfiqdehan&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCPARDqAjoICC4QjwEQ6gI6BQgAEIAEOgsIABCABBCxAxCDAToFCC4QgAQ6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARCvAToICAAQgAQQsQM6CAgAELEDEIMBOgUIABCxAzoECAAQAzoICC4QgAQQsQM6DgguEIAEELEDEMcBENEDOgsILhCDARCxAxCABDoHCC4QgAQQCjoHCAAQgAQQCjoECAAQHlC2HVjMPWC_RmgBcAB4AIABpwKIAfsPkgEFMC44LjOYAQCgAQGwAQo&sclient=gws-wiz">"musfiqdehan"</a> on any search engine
-</p>
-</samp> -->
 
 <p align="center">
     <a href = "https://www.linkedin.com/in/musfiqdehan" title="LinkedIn"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"></a>
