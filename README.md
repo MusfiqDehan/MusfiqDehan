@@ -50,7 +50,7 @@ Though I mostly worked on Backend Development, I have a great enthusiasm for Dev
     <a href="https://musfiqdehan.com" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
-    <a href="https://musfiqdehan.com/writing" target="_blank">
+    <a href="https://musfiqdehan.hashnode.dev" target="_blank">
         <img src="https://img.shields.io/badge/My%20Blog-musfiqdehan.com/writing%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
 </p>
