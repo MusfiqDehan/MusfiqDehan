@@ -27,9 +27,7 @@
 </p>
 
 <p align="justify">
-I have completed my <strong>Master's in Information Technology</strong> from <strong>IIT, University of Dhaka</strong> and <strong>BSc in CSE</strong> from <strong>North South University</strong>. Currently, I am working as a Full-Time <strong>Backend Software Engineer</strong> at <strong>TechForing Ltd.</strong>. 
-<br/>
-Though I mostly worked on Backend Development, I have a great enthusiasm for DevOps and MLOps. I also have decent experience in Frontend, Backend, DevOps, and AI. I can design the Frontend and integrate the Backend API and AI to it. I can make the deployment and maintenance of applications smoother by applying different DevOps principles. I have completed my final year thesis project in the area of Machine Learning and <strong>Natural Language Processing (NLP)</strong>. Besides, I have worked on different Computer Vision related projects. I also have experience in Open Source Contributions, which will help me properly collaborate with a team in any Environment. I love to write tech blogs and click nature photographs in my free time. I am excited to apply my skills and knowledge to real-world projects and contribute to a team of professionals in the field.
+Software Engineer with 3+ years of experience developing scalable backend applications using Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS. Skilled in designing RESTful APIs, microservices, cloud deployments, and CI/CD pipelines, with experience building AI-driven workflows, web scraping, and automation solutions. Leveraging LLMs, intelligent automation, and modern AI technologies to build scalable, production-ready applications while collaborating with cross-functional teams. Lifetime learner with a Master's at IIT, University of Dhaka and BSc. in CSE from North South University.
 </p>
 
 
