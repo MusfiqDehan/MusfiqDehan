@@ -12,8 +12,7 @@
 </a> -->
 
 <samp>
-    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Assalamu Alaikum</h1>
-    <p align="center">(Peace Be Upon On You)</p>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi!</h1>
 </samp>
 
 <samp>
@@ -28,6 +27,21 @@
 
 <p align="justify">
 Software Engineer with 3+ years of experience developing scalable backend applications using Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS. Skilled in designing RESTful APIs, microservices, cloud deployments, and CI/CD pipelines, with experience building AI-driven workflows, web scraping, and automation solutions. Leveraging LLMs, intelligent automation, and modern AI technologies to build scalable, production-ready applications while collaborating with cross-functional teams. Lifetime learner with a Master's at IIT, University of Dhaka and BSc. in CSE from North South University.
+</p>
+<p align="center">
+    <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
+        <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
+    </a>
+</p>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=musfiqdehan&theme=react&hide_border=true"></a>
+            </td>
+        </tr>
+   </table>
 </p>
 
 
