@@ -26,7 +26,7 @@
 </p>
 
 <p align="justify">
-Software Engineer with 3+ years of experience developing scalable backend applications using Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS. Skilled in designing RESTful APIs, microservices, cloud deployments, and CI/CD pipelines, with experience building AI-driven workflows, web scraping, and automation solutions. Leveraging LLMs, intelligent automation, and modern AI technologies to build scalable, production-ready applications while collaborating with cross-functional teams. Lifetime learner with a Master's at IIT, University of Dhaka and BSc. in CSE from North South University.
+Software Engineer with 5+ years of experience developing scalable backend applications using Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS. Skilled in designing RESTful APIs, microservices, cloud deployments, and CI/CD pipelines, with experience building AI-driven workflows, web scraping, and automation solutions. Leveraging LLMs, intelligent automation, and modern AI technologies to build scalable, production-ready applications while collaborating with cross-functional teams. Lifetime learner with a Master's at IIT, University of Dhaka and BSc. in CSE from North South University.
 </p>
 <p align="center">
     <a href="https://wakatime.com/@d0e56323-0ace-46e4-ab21-0e749b1608c3">
