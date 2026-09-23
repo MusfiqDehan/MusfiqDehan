@@ -38,7 +38,7 @@ Software Engineer with 3+ years of experience developing scalable backend applic
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=musfiq-dehan&theme=react&hide_border=true"></a>
+        <img src="https://streak-stats.demolab.com?user=musfiqdehan&theme=react&hide_border=true"></a>
             </td>
         </tr>
    </table>
