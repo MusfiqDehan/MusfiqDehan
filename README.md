@@ -33,7 +33,7 @@ Software Engineer with 3+ years of experience developing scalable backend applic
         <img src="https://wakatime.com/badge/user/d0e56323-0ace-46e4-ab21-0e749b1608c3.svg?style=flat" width="250px" title="Total time coded since Jul 27 2020" />
     </a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <table align="center">
         <tr>
             <td>
@@ -42,7 +42,7 @@ Software Engineer with 3+ years of experience developing scalable backend applic
             </td>
         </tr>
    </table>
-</p>
+</p> -->
 
 
 <p align="center">
@@ -336,7 +336,7 @@ In pass by value, the value of the argument is passed to the functi...</td></tr>
     </a>   
 </p>
 
-<p align="center"><code> © 2025 | Md. Musfiqur Rahaman </code></p>
+<p align="center"><code> © 2026 | Md. Musfiqur Rahaman </code></p>
 
 
 </details>
