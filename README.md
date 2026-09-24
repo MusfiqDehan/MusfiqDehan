@@ -10,7 +10,7 @@
 <!-- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="250" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>  -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://your-saas-one.com" target="_blank" title="Fitness and Health Management System">FitPulse</a>
   &nbsp;•&nbsp;
   <a href="https://your-saas-two.com" target="_blank">SaaS Two</a>
@@ -20,7 +20,7 @@
 
 <samp>
     <h1 align="center">☝️View My Live Products☝️</h1>
-</samp>
+</samp> -->
 
 <samp>
     <h3 align="center">I am <code><b>Md. Musfiqur Rahaman</b></code></h3>
