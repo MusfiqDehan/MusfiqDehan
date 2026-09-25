@@ -42,7 +42,26 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,typescript,nextjs,react,postgres,docker,redis,aws" alt="Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS" />
+    <a href="https://musfiqdehan.com" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <!-- <a href="https://musfiqdehan.com/blog" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Blog-musfiqdehan.com/blog%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a> -->
+</p>
+
+<p align="center">
+  <a>Microservice</a>
+  &nbsp;•&nbsp;
+  <a>SaaS</a>
+  &nbsp;•&nbsp;
+  <a>ERP</a>
+  &nbsp;•&nbsp;
+  <a>CI/CD</a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,typescript,nextjs,react,postgres,docker,redis,aws" alt="Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS" width="450" />
 </p>
 
 <p align="center">
@@ -59,47 +78,33 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/musfiqdehan" title="LinkedIn">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
     </a>
     <a href="https://x.com/MusfiqDehan" title="X">
-      <img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X" />
+      <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X" />
     </a>
     <a href="https://leetcode.com/MusfiqDehan/" title="LeetCode">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode" />
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode" />
     </a>
     <a href="https://www.hackerrank.com/MusfiqDehan/" title="HackerRank">
-        <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" alt="HackerRank" />
+        <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="30" alt="HackerRank" />
     </a>
     <a href="https://www.codechef.com/users/musfiqdehan" title="CodeChef">
-        <img src="https://cdn.simpleicons.org/codechef/5B4638" width="40" alt="CodeChef" />
+        <img src="https://cdn.simpleicons.org/codechef/5B4638" width="30" alt="CodeChef" />
     </a>
     <a href="https://hub.docker.com/u/musfiqdehan" title="Docker">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" />
     </a>
     <a href="https://unsplash.com/@musfiqdehan" title="Unsplash">
-        <img src="https://cdn.simpleicons.org/unsplash/000000" width="40" alt="Unsplash" />
+        <img src="https://cdn.simpleicons.org/unsplash/000000" width="30" alt="Unsplash" />
     </a>
 </p>
-
+  
 
 <p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=musfiqdehan&theme=react&hide_border=true"></a>
-            </td>
-        </tr>
-   </table>
+  <img
+    src="https://streak-stats.demolab.com?user=musfiqdehan&theme=transparent&hide_border=true"
+    alt="GitHub streak stats"
+  />
 </p>
-
-
-
-<p align="center">
-    <a href="https://musfiqdehan.com" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Portfolio-musfiqdehan.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://musfiqdehan.com/blog" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Blog-musfiqdehan.com/blog%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-</p>
+            
