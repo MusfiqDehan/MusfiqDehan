@@ -10,19 +10,20 @@
 <!-- <a href="https://app.daily.dev/musfiqdehan" target="_blank" title="Md. Musfiqur Rahaman's Dev Card">
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="250" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>  -->
-<!-- <p align="center">
-  <a href="https://your-saas-one.com" target="_blank" title="Fitness and Health Management System">FitPulse</a>
+<p align="center">
+  <a href="https://emailcampaign.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] AI-powered Email Campaign lanuch and Contact Management Platform">EmailCamp</a>
   &nbsp;•&nbsp;
-  <a href="https://your-saas-two.com" target="_blank">SaaS Two</a>
+  <a href="https://newscrawl.musfiqdehan.com" target="_blank" title="[Python+FastAPI+Next.js] AI-powered Bangla English News Scraping Platform">NewsCrawl</a>
   &nbsp;•&nbsp;
-  <a href="https://your-saas-three.com" target="_blank">SaaS Three</a>
+  <a href="https://wufud.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Hajj and Umrah Booking SaaS Application">Wufud</a>
 </p>
 
-<samp>
-    <h1 align="center">☝️View My Live Products☝️</h1>
-</samp> -->
+<p align="center">
+    <sub>(Hover Over Links for Description)</sub>
+    <h3 align="center">☝️Live Products☝️</h3>
+</p>
 
-<samp>
+<!-- <samp>
     <h3 align="center">I am <code><b>Md. Musfiqur Rahaman</b></code></h3>
 </samp>
 
@@ -30,7 +31,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Open+Source+Contributor;Problem+Solver;Content+Creator;DevOps+and+MLOps+Enthusiast&center=true&width=500&height=50">
 </a>
-</p>
+</p> -->
 
 <p align="justify">
 Software Engineer with 3+ years of experience developing scalable backend applications using Python, FastAPI, Django, React, PostgreSQL, Docker, Redis, and AWS. Skilled in designing RESTful APIs, microservices, cloud deployments, and CI/CD pipelines, with experience building AI-driven workflows, web scraping, and automation solutions. Leveraging LLMs, intelligent automation, and modern AI technologies to build scalable, production-ready applications while collaborating with cross-functional teams. Lifetime learner with a Master's at IIT, University of Dhaka and BSc. in CSE from North South University.
