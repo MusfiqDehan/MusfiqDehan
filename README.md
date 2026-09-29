@@ -16,6 +16,8 @@
   <a href="https://newscrawl.musfiqdehan.com" target="_blank" title="[Python+FastAPI+Next.js] AI-powered Bangla English News Scraping Platform">NewsCrawl</a>
   &nbsp;•&nbsp;
   <a href="https://wufud.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Hajj and Umrah Booking SaaS Application">Wufud</a>
+  &nbsp;•&nbsp;
+  <a href="https://clearlist.musfiqdehan.com" target="_blank" title="[Laravel+Next.js] AI-powered Task Scheduler Application">ClearList</a>
 </p>
 
 <p align="center">
