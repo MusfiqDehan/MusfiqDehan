@@ -17,6 +17,8 @@
   &nbsp;•&nbsp;
   <a href="https://wufud.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Hajj and Umrah Booking SaaS Application">Wufud</a>
   &nbsp;•&nbsp;
+  <a href="https://styledesk.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Parlor and Salon Management System">StyleDesk</a>
+  &nbsp;•&nbsp;
   <a href="https://clearlist.musfiqdehan.com" target="_blank" title="[Laravel+Next.js] AI-powered Task Scheduler Application">ClearList</a>
 </p>
 
