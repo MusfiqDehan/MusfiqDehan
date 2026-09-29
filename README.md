@@ -58,6 +58,8 @@
   <a>ERP</a>
   &nbsp;•&nbsp;
   <a>CI/CD</a>
+  &nbsp;•&nbsp;
+  <a>AI Integration</a>
 </p>
 
 <p align="center">
