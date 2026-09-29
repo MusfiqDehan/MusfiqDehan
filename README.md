@@ -34,7 +34,7 @@
 </p> -->
 
 <p align="center">
-  <a>Software Engineer</a>
+  <a>Full Stack Software Engineer</a>
   &nbsp;•&nbsp;
   <a>3+ Years of Experience</a>
   &nbsp;•&nbsp;
