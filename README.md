@@ -13,6 +13,10 @@
 <p align="center">
   <a href="https://emailcampaign.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] AI-powered Email Campaign lanuch and Contact Management Platform">EmailCamp</a>
   &nbsp;•&nbsp;
+  <a href="https://fitpulse.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] Gym and Fitness Management Platform">FitPulse</a>
+  &nbsp;•&nbsp;
+  <a href="https://supermart.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] PoS, SuperShop, Ecommerce Management Platform">SuperMart</a>
+  &nbsp;•&nbsp;
   <a href="https://newscrawl.musfiqdehan.com" target="_blank" title="[Python+FastAPI+Next.js] AI-powered Bangla English News Scraping Platform">NewsCrawl</a>
   &nbsp;•&nbsp;
   <a href="https://wufud.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Hajj and Umrah Booking SaaS Application">Wufud</a>
