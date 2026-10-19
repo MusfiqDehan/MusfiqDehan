@@ -107,6 +107,9 @@
     <a href="https://hub.docker.com/u/musfiqdehan" title="Docker">
         <img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" />
     </a>
+    <a href="https://figma.com/@musfiqdehan" title="Figma">
+        <img src="https://skillicons.dev/icons?i=figma" width="30" alt="figma" />
+    </a>
     <a href="https://unsplash.com/@musfiqdehan" title="Unsplash">
         <img src="https://cdn.simpleicons.org/unsplash/000000" width="30" alt="Unsplash" />
     </a>
