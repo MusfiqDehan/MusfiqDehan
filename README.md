@@ -26,6 +26,8 @@
   <a href="https://styledesk.musfiqdehan.com" target="_blank" title="[TypeScript+Nest.js+Next.js] Parlor and Salon Management System">StyleDesk</a>
   &nbsp;•&nbsp;
   <a href="https://clearlist.musfiqdehan.com" target="_blank" title="[Laravel+Next.js] AI-powered Task Scheduler Application">ClearList</a>
+  &nbsp;•&nbsp;
+  <a href="https://beamline.musfiqdehan.com" target="_blank" title="[Django+Next.js] AI-powered Task Scheduler Application">BeamLine</a>
 </p>
 
 <p align="center">
