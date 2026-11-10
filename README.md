@@ -27,7 +27,7 @@
   &nbsp;•&nbsp;
   <a href="https://clearlist.musfiqdehan.com" target="_blank" title="[Laravel+Next.js] AI-powered Task Scheduler Application">ClearList</a>
   &nbsp;•&nbsp;
-  <a href="https://beamline.musfiqdehan.com" target="_blank" title="[Django+Next.js] AI-powered Task Scheduler Application">BeamLine</a>
+  <a href="https://beamline.musfiqdehan.com" target="_blank" title="[Django+Next.js+n8n+Notion] AI-powered Construction Business Automation Platform">BeamLine</a>
 </p>
 
 <p align="center">
