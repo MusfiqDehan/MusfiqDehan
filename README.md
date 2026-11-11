@@ -11,7 +11,7 @@
     <img align="right" src="https://api.daily.dev/devcards/aa2833423ca8474fb05fe0414fc25b18.png?r=gwq" width="250" alt="Md. Musfiqur Rahaman's Dev Card"/>
 </a>  -->
 <p align="center">
-  <a href="https://emailcampaign.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] AI-powered Email Campaign lanuch and Contact Management Platform">EmailCamp</a>
+  <a href="https://emailcampaign.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] Agentic Email Campaign lanuch and Contact Management Platform">EmailCamp</a>
   &nbsp;•&nbsp;
   <a href="https://fitpulse.musfiqdehan.com" target="_blank" title="[Python+Django+Next.js] Gym and Fitness Management Platform">FitPulse</a>
   &nbsp;•&nbsp;
